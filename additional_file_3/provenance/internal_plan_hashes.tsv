@@ -1,0 +1,7 @@
+plan_id	file	sha256	frozen_at	file_hash_verified	description
+G0	docs/prereg_G0_premise.md	6f1f67fdd4768d9d7ca271d971da0e9b744d6f5927739f79b4671054086cee32	2026-09-29 07:42:20.483181	True	Internal plan checksum only; not independent prospective registration
+G2	docs/prereg_G2_replication.md	a3a4d9951a90d69146f804768a42cf9dc85a362bdb6c7a62c71f545ba9b1e7e5	2026-09-29 11:47:32.691472	True	Internal plan checksum only; not independent prospective registration
+G3	docs/prereg_G3_pathway.md	353a62d91fb75fe5fecf670f1cf4cfdbc073f1e48b42f3221caf847767fd787f	2026-09-29 11:53:52.688398	True	Internal plan checksum only; not independent prospective registration
+G4	docs/prereg_G4_atlas_specificity.md	898501dd33830ac837f7ba016afc27afbcc5c9b55c818a1e264aca0bae4d3f17	2026-10-05 04:38:28.204355	True	Internal plan checksum only; not independent prospective registration
+G5	docs/prereg_G5_core_second_biobank.md	e67b3826aef276c1b1d02d3ca323871a745b2b63d9494fbc7006c84665f091c2	2026-10-05 05:06:33.273656	True	Internal plan checksum only; not independent prospective registration
+G5a	docs/prereg_G5a_amendment.md	749fd3bef8dc22e2015d46c2f489af4c77e786ac84e8aed30bb7e993f75cfd98	2026-10-05 05:09:09.607424	True	Internal plan checksum only; not independent prospective registration

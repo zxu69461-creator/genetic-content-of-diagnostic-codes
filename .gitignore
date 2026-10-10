@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# fresh outputs written by revision/code/analyze_revision.py
+additional_file_3/revision/recomputed/

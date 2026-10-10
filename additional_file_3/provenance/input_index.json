@@ -1,0 +1,1267 @@
+[
+  {
+    "file": "inputs/atlas_multiplicity.parquet",
+    "source_table": "atlas_multiplicity",
+    "rows": 1677,
+    "frozen_input_sha256": "86db616a8038beeb7c53a63c2a6b15b2e0d1c61b851066bf6e09f74fecc4213d",
+    "publication_sha256": "86db616a8038beeb7c53a63c2a6b15b2e0d1c61b851066bf6e09f74fecc4213d",
+    "columns": [
+      "endpoint",
+      "n_cases",
+      "f_case_b27",
+      "f_ref_b27",
+      "f_as_b27",
+      "as_equivalent",
+      "se",
+      "z",
+      "category",
+      "phenotype",
+      "nominal_two_sided_p",
+      "bonferroni_p",
+      "BH_q"
+    ]
+  },
+  {
+    "file": "inputs/audit_mhc_sensitivity.parquet",
+    "source_table": "audit_mhc_sensitivity",
+    "rows": 9,
+    "frozen_input_sha256": "3a9321638bb2e9202c1132516482ff7f2de62ce6d235de6ae656d1f49a365f2c",
+    "publication_sha256": "3a9321638bb2e9202c1132516482ff7f2de62ce6d235de6ae656d1f49a365f2c",
+    "columns": [
+      "label",
+      "analysis",
+      "n_loci",
+      "estimate",
+      "se",
+      "lo",
+      "hi"
+    ]
+  },
+  {
+    "file": "inputs/ext_effects.parquet",
+    "source_table": "ext_effects",
+    "rows": 2861,
+    "frozen_input_sha256": "23f8b5590f6fa1bc16ee5121aeeb82be70d03e1387a5632296fa2df2543bdc1e",
+    "publication_sha256": "23f8b5590f6fa1bc16ee5121aeeb82be70d03e1387a5632296fa2df2543bdc1e",
+    "columns": [
+      "accession",
+      "chrom",
+      "pos",
+      "ea",
+      "oa",
+      "beta",
+      "se",
+      "eaf",
+      "case_af",
+      "control_af",
+      "n_cases",
+      "n_controls"
+    ]
+  },
+  {
+    "file": "inputs/g0_commonref_lambda.parquet",
+    "source_table": "g0_commonref_lambda",
+    "rows": 10,
+    "frozen_input_sha256": "1ad67f49338dcbbb75b25e7ee0a8f6d51a70a2f8e248b15cee5fe1fc8180660d",
+    "publication_sha256": "1ad67f49338dcbbb75b25e7ee0a8f6d51a70a2f8e248b15cee5fe1fc8180660d",
+    "columns": [
+      "endpoint",
+      "n_variants",
+      "lambda_commonref",
+      "lambda_standard",
+      "gc_used"
+    ]
+  },
+  {
+    "file": "inputs/g10_repl_independence.parquet",
+    "source_table": "g10_repl_independence",
+    "rows": 4,
+    "frozen_input_sha256": "1a1ba5877f50b1eb770d7d5d1159a09f73d3d967ea74ee5d9d5ac314162020aa",
+    "publication_sha256": "1a1ba5877f50b1eb770d7d5d1159a09f73d3d967ea74ee5d9d5ac314162020aa",
+    "columns": [
+      "external",
+      "n",
+      "rho"
+    ]
+  },
+  {
+    "file": "inputs/g10_repl_posthoc.parquet",
+    "source_table": "g10_repl_posthoc",
+    "rows": 15,
+    "frozen_input_sha256": "c2c4c2b433d71c9ab7593f7211f553afa50b499f4bf4a6e81b05b62e42714c23",
+    "publication_sha256": "c2c4c2b433d71c9ab7593f7211f553afa50b499f4bf4a6e81b05b62e42714c23",
+    "columns": [
+      "prediction",
+      "n_loci",
+      "ext_mean_chi2",
+      "ext_identifiable",
+      "ext_sum_w_b2_minus_s2",
+      "replication",
+      "replication_se",
+      "p_one_sided",
+      "discovery_label",
+      "discovery",
+      "discovery_se",
+      "z_consistency",
+      "met",
+      "exploratory",
+      "ci_lo",
+      "ci_hi",
+      "p_le_0",
+      "rho_used"
+    ]
+  },
+  {
+    "file": "inputs/g10_replication.parquet",
+    "source_table": "g10_replication",
+    "rows": 8,
+    "frozen_input_sha256": "46fd427de725d33b9512b9ee99c6605f145565e80e0bc59d27caf998c95a3176",
+    "publication_sha256": "46fd427de725d33b9512b9ee99c6605f145565e80e0bc59d27caf998c95a3176",
+    "columns": [
+      "prediction",
+      "description",
+      "estimate",
+      "se",
+      "n_loci",
+      "rule",
+      "met",
+      "p_one_sided",
+      "seropos_slope",
+      "seropos_se",
+      "diff",
+      "diff_se",
+      "p_diff",
+      "pi_M05",
+      "UKB_M06_log_or",
+      "UKB_M06_se",
+      "UKB_M06_f0",
+      "UKB_M06_f_case",
+      "UKB_M05_log_or",
+      "UKB_M05_se",
+      "UKB_M05_f0",
+      "UKB_M05_f_case",
+      "UKB_M45_log_or",
+      "UKB_M45_se",
+      "UKB_M45_f0",
+      "UKB_M45_f_case"
+    ]
+  },
+  {
+    "file": "inputs/g14_b27_coding_bounds.parquet",
+    "source_table": "g14_b27_coding_bounds",
+    "rows": 30,
+    "frozen_input_sha256": "4e5a215a1b254676dd77986543246f95f762006ef955fb000c9f608e6c281c51",
+    "publication_sha256": "4e5a215a1b254676dd77986543246f95f762006ef955fb000c9f608e6c281c51",
+    "columns": [
+      "label",
+      "genetic_b27",
+      "genetic_b27_se",
+      "reg_lower_single",
+      "reg_upper_sum",
+      "reg_conservative",
+      "reg_extreme_all_as",
+      "groups",
+      "hidden",
+      "hidden_share",
+      "hidden_conservative",
+      "hidden_share_conservative",
+      "a_by_group"
+    ]
+  },
+  {
+    "file": "inputs/g14_coding_vs_genetics.parquet",
+    "source_table": "g14_coding_vs_genetics",
+    "rows": 113,
+    "frozen_input_sha256": "bd00dccb7fd067f2bcb0c371f0859bc8e78fd6f403fae53591d99395a80c2988",
+    "publication_sha256": "bd00dccb7fd067f2bcb0c371f0859bc8e78fd6f403fae53591d99395a80c2988",
+    "columns": [
+      "label",
+      "component",
+      "component_endpoint",
+      "c",
+      "p",
+      "pi_reg",
+      "pi_reg_se",
+      "n_overlap",
+      "n_label",
+      "c_finregistry",
+      "genetic_sentinel",
+      "genetic_sentinel_se",
+      "genetic_b27",
+      "genetic_b27_se",
+      "genetic_hla",
+      "genetic_hla_se"
+    ]
+  },
+  {
+    "file": "inputs/g15_fastldsc_validation.parquet",
+    "source_table": "g15_fastldsc_validation",
+    "rows": 45,
+    "frozen_input_sha256": "976d1f5afba604dcac1ca7fa426a6437bcacba54ba6ff8ab9a6ed35b300c6f5d",
+    "publication_sha256": "976d1f5afba604dcac1ca7fa426a6437bcacba54ba6ff8ab9a6ed35b300c6f5d",
+    "columns": [
+      "trait1",
+      "trait2",
+      "rg_genomicsem",
+      "se_genomicsem",
+      "rg_fast"
+    ]
+  },
+  {
+    "file": "inputs/g15_ldsc_traits.parquet",
+    "source_table": "g15_ldsc_traits",
+    "rows": 60,
+    "frozen_input_sha256": "6920f8c8322b2869abd1679e094ef67a3a60e068b06a49ca249c2f5b5d529722",
+    "publication_sha256": "6920f8c8322b2869abd1679e094ef67a3a60e068b06a49ca249c2f5b5d529722",
+    "columns": [
+      "trait",
+      "file",
+      "n_snp",
+      "h2",
+      "intercept"
+    ]
+  },
+  {
+    "file": "inputs/g15_poly_decoys.parquet",
+    "source_table": "g15_poly_decoys",
+    "rows": 84,
+    "frozen_input_sha256": "caaff02ab2a5d01d46b0997b75d0ba65042e58c9d194ed06a3e1efea1866368d",
+    "publication_sha256": "caaff02ab2a5d01d46b0997b75d0ba65042e58c9d194ed06a3e1efea1866368d",
+    "columns": [
+      "label",
+      "decoy",
+      "pi_decoy",
+      "lo",
+      "hi",
+      "Q_p"
+    ]
+  },
+  {
+    "file": "inputs/g15_poly_fit.parquet",
+    "source_table": "g15_poly_fit",
+    "rows": 42,
+    "frozen_input_sha256": "107ce49602af3737b46d99d489a4100cd46417e33ceb69520d835dfcd57fa5ba",
+    "publication_sha256": "107ce49602af3737b46d99d489a4100cd46417e33ceb69520d835dfcd57fa5ba",
+    "columns": [
+      "label",
+      "design",
+      "n_rows",
+      "Q",
+      "df",
+      "Q_p",
+      "sum_pi"
+    ]
+  },
+  {
+    "file": "inputs/g15_poly_pi.parquet",
+    "source_table": "g15_poly_pi",
+    "rows": 294,
+    "frozen_input_sha256": "e28171842a8f6fb07c27e24e015bedabf5b9fd61fe7790a92bdb2456dc5122d1",
+    "publication_sha256": "e28171842a8f6fb07c27e24e015bedabf5b9fd61fe7790a92bdb2456dc5122d1",
+    "columns": [
+      "label",
+      "design",
+      "component",
+      "pi",
+      "se_boot",
+      "lo",
+      "hi",
+      "sentinel"
+    ]
+  },
+  {
+    "file": "inputs/g16_ukb_loadings.parquet",
+    "source_table": "g16_ukb_loadings",
+    "rows": 114,
+    "frozen_input_sha256": "9325e94993692c93cd6b757c590e6ca5f4e7943ed50017320da7ca19b38f6afd",
+    "publication_sha256": "9325e94993692c93cd6b757c590e6ca5f4e7943ed50017320da7ca19b38f6afd",
+    "columns": [
+      "label",
+      "component",
+      "n",
+      "loading",
+      "se",
+      "Q_p"
+    ]
+  },
+  {
+    "file": "inputs/g18_b27_gradient.parquet",
+    "source_table": "g18_b27_gradient",
+    "rows": 15,
+    "frozen_input_sha256": "4f51e6861b131cbf115525d7606c4c96ad2f44203adb255471bb1426815b394c",
+    "publication_sha256": "4f51e6861b131cbf115525d7606c4c96ad2f44203adb255471bb1426815b394c",
+    "columns": [
+      "biobank",
+      "country",
+      "ancestry",
+      "label",
+      "n_cases",
+      "f_ref",
+      "f_case",
+      "f_as",
+      "pi",
+      "se",
+      "reference"
+    ]
+  },
+  {
+    "file": "inputs/g1_ldsc_all_rg.parquet",
+    "source_table": "g1_ldsc_all_rg",
+    "rows": 45,
+    "frozen_input_sha256": "d7463357998717cb144b47a94d1bd0a21a9086626f34757efa87c058b56d3dd0",
+    "publication_sha256": "d7463357998717cb144b47a94d1bd0a21a9086626f34757efa87c058b56d3dd0",
+    "columns": [
+      "trait1",
+      "trait2",
+      "rg",
+      "rg_se",
+      "gcov_int"
+    ]
+  },
+  {
+    "file": "inputs/g1_ldsc_cr_rg.parquet",
+    "source_table": "g1_ldsc_cr_rg",
+    "rows": 45,
+    "frozen_input_sha256": "f39a9d67b6580f53b7bdb6ac42a342a16201c30366c649bed649e556740ae307",
+    "publication_sha256": "f39a9d67b6580f53b7bdb6ac42a342a16201c30366c649bed649e556740ae307",
+    "columns": [
+      "trait1",
+      "trait2",
+      "rg",
+      "rg_se",
+      "gcov_int"
+    ]
+  },
+  {
+    "file": "inputs/g1hla_pi_commonref.parquet",
+    "source_table": "g1hla_pi_commonref",
+    "rows": 157,
+    "frozen_input_sha256": "387009953b1bd0a54c393419a9ebb3a04c06c6e1f276c9cd4fa09bb6f309ded3",
+    "publication_sha256": "387009953b1bd0a54c393419a9ebb3a04c06c6e1f276c9cd4fa09bb6f309ded3",
+    "columns": [
+      "label",
+      "component",
+      "pi",
+      "se",
+      "sum_pi",
+      "se_sum",
+      "Q",
+      "Q_df",
+      "Q_p",
+      "n_alleles",
+      "overlap_source",
+      "nested_calibration"
+    ]
+  },
+  {
+    "file": "inputs/g1hla_resid_commonref.parquet",
+    "source_table": "g1hla_resid_commonref",
+    "rows": 1118,
+    "frozen_input_sha256": "a37dbb996ea7abe5e01996c734cccc971b76fa6ecd0f877f4c32761c0fcc2c44",
+    "publication_sha256": "a37dbb996ea7abe5e01996c734cccc971b76fa6ecd0f877f4c32761c0fcc2c44",
+    "columns": [
+      "label",
+      "allele",
+      "resid_z"
+    ]
+  },
+  {
+    "file": "inputs/g20_cross_system.parquet",
+    "source_table": "g20_cross_system",
+    "rows": 67,
+    "frozen_input_sha256": "5f441f36d8ff12234948ae848774c964a5d1f685bc2b158fc896d4fbc1dd90db",
+    "publication_sha256": "5f441f36d8ff12234948ae848774c964a5d1f685bc2b158fc896d4fbc1dd90db",
+    "columns": [
+      "biobank",
+      "country",
+      "ancestry",
+      "source_id",
+      "code",
+      "coding",
+      "component",
+      "estimate",
+      "se"
+    ]
+  },
+  {
+    "file": "inputs/g23_ukb_seroneg.parquet",
+    "source_table": "g23_ukb_seroneg",
+    "rows": 10,
+    "frozen_input_sha256": "e9c4611b73fba4cba2de631eae0100a20fd9ed94b1bf390b8c044507de6b96d0",
+    "publication_sha256": "e9c4611b73fba4cba2de631eae0100a20fd9ed94b1bf390b8c044507de6b96d0",
+    "columns": [
+      "label",
+      "component",
+      "n_loci",
+      "loading",
+      "se",
+      "Q_p",
+      "loading_raw_controls",
+      "se_raw",
+      "instrument_strength",
+      "lambda",
+      "n_cases",
+      "f_case",
+      "f_controls",
+      "f_pop",
+      "f_as"
+    ]
+  },
+  {
+    "file": "inputs/g24_instrument.parquet",
+    "source_table": "g24_instrument",
+    "rows": 23,
+    "frozen_input_sha256": "6231bb09269be64cc2c911e8e06713f7d7ea9486416b1fceec811f89cf7bf6ff",
+    "publication_sha256": "6231bb09269be64cc2c911e8e06713f7d7ea9486416b1fceec811f89cf7bf6ff",
+    "columns": [
+      "label",
+      "component",
+      "n_loci",
+      "loading",
+      "se",
+      "strength_sum_w_b2_minus_s2",
+      "mean_F_component"
+    ]
+  },
+  {
+    "file": "inputs/g24_oa_stringency.parquet",
+    "source_table": "g24_oa_stringency",
+    "rows": 12,
+    "frozen_input_sha256": "5d57e9a49a70f436cbc6b48bd852e81885cb260ad1b26528f041cd85d28616e0",
+    "publication_sha256": "5d57e9a49a70f436cbc6b48bd852e81885cb260ad1b26528f041cd85d28616e0",
+    "columns": [
+      "contrast",
+      "label_a",
+      "label_b",
+      "estimate",
+      "se",
+      "n_loci",
+      "p_two_sided"
+    ]
+  },
+  {
+    "file": "inputs/g24_portability.parquet",
+    "source_table": "g24_portability",
+    "rows": 10,
+    "frozen_input_sha256": "f43d093ea191c449defb703af149766e901f9e62b11ac2d5fa96f08fa777f450",
+    "publication_sha256": "f43d093ea191c449defb703af149766e901f9e62b11ac2d5fa96f08fa777f450",
+    "columns": [
+      "biobank",
+      "code",
+      "component",
+      "loading",
+      "se",
+      "n_loci"
+    ]
+  },
+  {
+    "file": "inputs/g24_registry_bounds.parquet",
+    "source_table": "g24_registry_bounds",
+    "rows": 63,
+    "frozen_input_sha256": "4c4f0da4c41f4b124d30823851e124fe87d139c1a248d6a18292489fb3e886df",
+    "publication_sha256": "b9381c5fa3f0cc49a03d4296de1667679f33198577dec3940b9d0e28918847a5",
+    "columns": [
+      "label",
+      "variant",
+      "genetic",
+      "genetic_fraction",
+      "registry_typical",
+      "registry_axial_as_level",
+      "registry_all_as_level",
+      "residual_share_typical_scenario",
+      "residual_share_axial_AS_scenario",
+      "residual_share_all_AS_scenario"
+    ]
+  },
+  {
+    "file": "inputs/g24_sex.parquet",
+    "source_table": "g24_sex",
+    "rows": 10,
+    "frozen_input_sha256": "a86b3d9ee1894eeec13db23bc309b465b31601c7c8de8a07351ca6befcf8bb58",
+    "publication_sha256": "a86b3d9ee1894eeec13db23bc309b465b31601c7c8de8a07351ca6befcf8bb58",
+    "columns": [
+      "endpoint",
+      "male_share",
+      "n"
+    ]
+  },
+  {
+    "file": "inputs/g24_spa_units.parquet",
+    "source_table": "g24_spa_units",
+    "rows": 6,
+    "frozen_input_sha256": "d2f47d4b8add9487dc0d50e0fe0f12fc8a4d3e1428ff8bbc45365ff1886566d4",
+    "publication_sha256": "d2f47d4b8add9487dc0d50e0fe0f12fc8a4d3e1428ff8bbc45365ff1886566d4",
+    "columns": [
+      "unit",
+      "reference_endpoint",
+      "f_reference_cases",
+      "fraction",
+      "se"
+    ]
+  },
+  {
+    "file": "inputs/g25_footprint_corr.parquet",
+    "source_table": "g25_footprint_corr",
+    "rows": 18,
+    "frozen_input_sha256": "4423bb33481344492095de7f9c42325b93fa05d14b5d6ef2303c163fdcff092d",
+    "publication_sha256": "4423bb33481344492095de7f9c42325b93fa05d14b5d6ef2303c163fdcff092d",
+    "columns": [
+      "marker",
+      "genetic",
+      "variant",
+      "n_codes",
+      "rho",
+      "p",
+      "rho_partial_age",
+      "codes"
+    ]
+  },
+  {
+    "file": "inputs/g25_footprint_fixed.parquet",
+    "source_table": "g25_footprint_fixed",
+    "rows": 369,
+    "frozen_input_sha256": "2bb413a0a228e03a01e0f05520b20f4807c29bd94e1c5615bea9f864ec9e234b",
+    "publication_sha256": "2bb413a0a228e03a01e0f05520b20f4807c29bd94e1c5615bea9f864ec9e234b",
+    "columns": [
+      "endpoint",
+      "marker",
+      "code",
+      "status",
+      "share",
+      "share_lo",
+      "share_hi",
+      "b27",
+      "ra",
+      "oa",
+      "gout",
+      "age"
+    ]
+  },
+  {
+    "file": "inputs/g25_recognition_fixed.parquet",
+    "source_table": "g25_recognition_fixed",
+    "rows": 20,
+    "frozen_input_sha256": "94666e5db65db7418546bfe9d4b8ba90a70e1cb2420f00d7e266449884ad8094",
+    "publication_sha256": "093442334a497319850e99f651c6b7d34103519e373a9c0f502dec234150901e",
+    "columns": [
+      "endpoint",
+      "marker",
+      "benchmark",
+      "share_code",
+      "share_as",
+      "baseline_lo",
+      "baseline_hi",
+      "pi",
+      "observed_expected_ratio_lo",
+      "observed_expected_ratio_hi"
+    ]
+  },
+  {
+    "file": "inputs/g25_registry_finregistry.parquet",
+    "source_table": "g25_registry_finregistry",
+    "rows": 10,
+    "frozen_input_sha256": "682ad3b6c42e6a498a490faa1b911fe607027e56eea29dd7725da0744d093d6d",
+    "publication_sha256": "8d2ed459163e707a25d31743bcfe92d6e4d31c8441df980ed7f467b5c1e4040c",
+    "columns": [
+      "label",
+      "source",
+      "genetic_b27",
+      "registry_typical",
+      "registry_axial_as_level",
+      "registry_all_as_level",
+      "residual_share_typical_scenario",
+      "residual_share_axial_AS_scenario",
+      "residual_share_all_AS_scenario",
+      "groups"
+    ]
+  },
+  {
+    "file": "inputs/g26_adjustment.parquet",
+    "source_table": "g26_adjustment",
+    "rows": 33,
+    "frozen_input_sha256": "c38fa74e9eb7874afc5a28d30ae8a0bff9a87b91755c8952654af041db6e2cf1",
+    "publication_sha256": "c38fa74e9eb7874afc5a28d30ae8a0bff9a87b91755c8952654af041db6e2cf1",
+    "columns": [
+      "endpoint",
+      "n_variants",
+      "n_cases",
+      "n_controls",
+      "intercept",
+      "slope",
+      "pearson_r",
+      "control_fraction"
+    ]
+  },
+  {
+    "file": "inputs/g26_oa_site.parquet",
+    "source_table": "g26_oa_site",
+    "rows": 32,
+    "frozen_input_sha256": "609e86f692f0f014832c36e630a846d61d135b3fcc34741d3432608e1a9a3826",
+    "publication_sha256": "609e86f692f0f014832c36e630a846d61d135b3fcc34741d3432608e1a9a3826",
+    "columns": [
+      "label",
+      "site",
+      "site_name",
+      "n_loci",
+      "loading",
+      "se",
+      "instrument_strength",
+      "mean_chi2_component"
+    ]
+  },
+  {
+    "file": "inputs/g26_oa_site_diff.parquet",
+    "source_table": "g26_oa_site_diff",
+    "rows": 24,
+    "frozen_input_sha256": "5247259c15eff58afd48ec57803a2585e8996ec8cfa2d2ce063674650bf3b29b",
+    "publication_sha256": "5247259c15eff58afd48ec57803a2585e8996ec8cfa2d2ce063674650bf3b29b",
+    "columns": [
+      "label",
+      "site_a",
+      "site_b",
+      "difference",
+      "se",
+      "p_two_sided"
+    ]
+  },
+  {
+    "file": "inputs/g27_igas_as_equiv.parquet",
+    "source_table": "g27_igas_as_equiv",
+    "rows": 36,
+    "frozen_input_sha256": "8c0e9cf3bd8e6b286ed980eddc729728212550323d29b0d98b3bd787c755029b",
+    "publication_sha256": "8c0e9cf3bd8e6b286ed980eddc729728212550323d29b0d98b3bd787c755029b",
+    "columns": [
+      "label",
+      "locus_set",
+      "n_loci",
+      "as_equivalent",
+      "se",
+      "lo",
+      "hi",
+      "reference"
+    ]
+  },
+  {
+    "file": "inputs/g27_igas_loadings.parquet",
+    "source_table": "g27_igas_loadings",
+    "rows": 38,
+    "frozen_input_sha256": "04757c52f49d5628a48be0eb671b7eb6b132c38dd99fe7eb93436208e7869937",
+    "publication_sha256": "04757c52f49d5628a48be0eb671b7eb6b132c38dd99fe7eb93436208e7869937",
+    "columns": [
+      "label",
+      "locus_set",
+      "n_loci",
+      "loading",
+      "se",
+      "Q_p",
+      "instrument_strength",
+      "mean_chi2_igas"
+    ]
+  },
+  {
+    "file": "inputs/g27_igas_loci.parquet",
+    "source_table": "g27_igas_loci",
+    "rows": 66,
+    "frozen_input_sha256": "dc5c20609992c7930d40c361fe923474bb7ce364c8a1d9d89f249dd24fe0b5c8",
+    "publication_sha256": "dc5c20609992c7930d40c361fe923474bb7ce364c8a1d9d89f249dd24fe0b5c8",
+    "columns": [
+      "rsid",
+      "chrom",
+      "pos",
+      "oa",
+      "ea",
+      "beta",
+      "p",
+      "se",
+      "locus_set"
+    ]
+  },
+  {
+    "file": "inputs/g27_igas_power.parquet",
+    "source_table": "g27_igas_power",
+    "rows": 4,
+    "frozen_input_sha256": "8d40a685342a993bb08a024b8cc9a802a5e2a9684890f3af6d391ebebb0f2f0d",
+    "publication_sha256": "8d40a685342a993bb08a024b8cc9a802a5e2a9684890f3af6d391ebebb0f2f0d",
+    "columns": [
+      "locus_set",
+      "power",
+      "se",
+      "detectable_fraction"
+    ]
+  },
+  {
+    "file": "inputs/g28_atlas_b27.parquet",
+    "source_table": "g28_atlas_b27",
+    "rows": 1677,
+    "frozen_input_sha256": "8c2b67e407450dce51494b6e1f95acfa306c6354146bec8a394f4bac79effbba",
+    "publication_sha256": "8c2b67e407450dce51494b6e1f95acfa306c6354146bec8a394f4bac79effbba",
+    "columns": [
+      "endpoint",
+      "n_cases",
+      "f_case_b27",
+      "f_ref_b27",
+      "f_as_b27",
+      "as_equivalent",
+      "se",
+      "z",
+      "category",
+      "phenotype"
+    ]
+  },
+  {
+    "file": "inputs/g29_atlas_cocoding.parquet",
+    "source_table": "g29_atlas_cocoding",
+    "rows": 10,
+    "frozen_input_sha256": "67bacfaef58a0d25898565e87d481ad9004da6937f36282890b9947df9fd1339",
+    "publication_sha256": "67bacfaef58a0d25898565e87d481ad9004da6937f36282890b9947df9fd1339",
+    "columns": [
+      "endpoint",
+      "phenotype",
+      "n_cases",
+      "b27_observed",
+      "se",
+      "explained_by_cocoding",
+      "unexplained_share",
+      "cocoding"
+    ]
+  },
+  {
+    "file": "inputs/g30_g4_codes.parquet",
+    "source_table": "g30_g4_codes",
+    "rows": 178,
+    "frozen_input_sha256": "07ce60380a8efe28cd0e90c9e63dae385a0a292af0d9750778a7c1e7696e2e43",
+    "publication_sha256": "6d04a303b53547f5f69d0f1daaf8a5712525264cd1a7fdcebf6839f65643ba8a",
+    "columns": [
+      "endpoint",
+      "n_cases",
+      "hla",
+      "hla_se",
+      "z",
+      "phenotype",
+      "group",
+      "n_loci",
+      "nonhla",
+      "nonhla_se",
+      "hla_adj",
+      "nominal_cross_marker_concordance"
+    ]
+  },
+  {
+    "file": "inputs/g30_g4_fetch.parquet",
+    "source_table": "g30_g4_fetch",
+    "rows": 3982,
+    "frozen_input_sha256": "bf7bcaed2a6a7b41bb537ab3b2d4d7b09cae084c33b212abb3e14ebe8cec8384",
+    "publication_sha256": "bf7bcaed2a6a7b41bb537ab3b2d4d7b09cae084c33b212abb3e14ebe8cec8384",
+    "columns": [
+      "endpoint",
+      "chrom",
+      "pos",
+      "ref",
+      "alt",
+      "beta",
+      "se",
+      "af_alt_cases",
+      "af_alt_controls",
+      "source"
+    ]
+  },
+  {
+    "file": "inputs/g30_g4_sensitivity.parquet",
+    "source_table": "g30_g4_sensitivity",
+    "rows": 10,
+    "frozen_input_sha256": "d9195fba13a745548cb68f67491745f6ab1dac635f98499f3d9ce009747c9651",
+    "publication_sha256": "9fe0d81309e81e406a33313ebc4a839d89377d72800cb65c29705a260c31ddfc",
+    "columns": [
+      "analysis",
+      "n_codes",
+      "slope",
+      "se",
+      "lo",
+      "hi",
+      "slope_unweighted",
+      "se_unweighted",
+      "median_ratio",
+      "n_supported"
+    ]
+  },
+  {
+    "file": "inputs/g30_g4_summary.parquet",
+    "source_table": "g30_g4_summary",
+    "rows": 4,
+    "frozen_input_sha256": "c0ed1f6c266d54c48cdbdb79fac5bb9942f94f8d8aa88f42fc1f0dd763bc4a1a",
+    "publication_sha256": "c0ed1f6c266d54c48cdbdb79fac5bb9942f94f8d8aa88f42fc1f0dd763bc4a1a",
+    "columns": [
+      "group",
+      "n_codes",
+      "slope",
+      "se",
+      "lo",
+      "hi",
+      "slope_dilution_corrected",
+      "se_dc",
+      "n_supported",
+      "iv_mean"
+    ]
+  },
+  {
+    "file": "inputs/g31_care_partial.parquet",
+    "source_table": "g31_care_partial",
+    "rows": 36,
+    "frozen_input_sha256": "ec2eebe4b134097abc9178f4e03cc4eadf7364e59bacde7ecc8d6cd0d8b179da",
+    "publication_sha256": "ec2eebe4b134097abc9178f4e03cc4eadf7364e59bacde7ecc8d6cd0d8b179da",
+    "columns": [
+      "marker",
+      "marker_name",
+      "axis",
+      "own_axis",
+      "n_codes",
+      "rho_partial",
+      "lo",
+      "hi",
+      "p_sign"
+    ]
+  },
+  {
+    "file": "inputs/g31_care_partial_best.parquet",
+    "source_table": "g31_care_partial_best",
+    "rows": 9,
+    "frozen_input_sha256": "4f2cc5cfaa6425c4f7f37863c24a668c4609faba79e1870c68a8f71a408e658a",
+    "publication_sha256": "4f2cc5cfaa6425c4f7f37863c24a668c4609faba79e1870c68a8f71a408e658a",
+    "columns": [
+      "marker",
+      "marker_name",
+      "best_axis",
+      "best_rho",
+      "own_axis",
+      "matches_own"
+    ]
+  },
+  {
+    "file": "inputs/g4_b27_atlas.parquet",
+    "source_table": "g4_b27_atlas",
+    "rows": 35,
+    "frozen_input_sha256": "7740f8373746625b5d2098e3204d0af6c53e8db3b9fa0a23cd2f31d4ba3ae545",
+    "publication_sha256": "89fe974917f4062a1641491c5df9936ef4c0c78522e72e4ce7c1da4fbed22a1b",
+    "columns": [
+      "endpoint",
+      "phenotype",
+      "n_cases",
+      "AS_equivalent_signal",
+      "se_cr",
+      "excess_cases_cr",
+      "f_ref",
+      "af_case",
+      "af_ctrl",
+      "log_or",
+      "p",
+      "pi_as_equiv",
+      "se",
+      "carrier_or",
+      "af_among_b27pos",
+      "excess_cases"
+    ]
+  },
+  {
+    "file": "inputs/g5_oa_pain_sets.parquet",
+    "source_table": "g5_oa_pain_sets",
+    "rows": 173,
+    "frozen_input_sha256": "d838d030e76bcf37545390696eb51eb82acb4809d23b424b3123849864a1a238",
+    "publication_sha256": "d838d030e76bcf37545390696eb51eb82acb4809d23b424b3123849864a1a238",
+    "columns": [
+      "label",
+      "set",
+      "component",
+      "slope",
+      "se",
+      "Q_p",
+      "n",
+      "conc",
+      "p_sign"
+    ]
+  },
+  {
+    "file": "inputs/g5_oa_pain_sets_commonref.parquet",
+    "source_table": "g5_oa_pain_sets_commonref",
+    "rows": 187,
+    "frozen_input_sha256": "d8afceb31e01bff9c9937045965f205f5ffb1abd8a09d8ee06c1f54c34502c2f",
+    "publication_sha256": "d8afceb31e01bff9c9937045965f205f5ffb1abd8a09d8ee06c1f54c34502c2f",
+    "columns": [
+      "label",
+      "set",
+      "component",
+      "slope",
+      "se",
+      "Q_p",
+      "n",
+      "conc",
+      "p_sign"
+    ]
+  },
+  {
+    "file": "inputs/g6_simplex_loadings.parquet",
+    "source_table": "g6_simplex_loadings",
+    "rows": 56,
+    "frozen_input_sha256": "0a06bd3c73037e600fc11c2d8d4adc2eb40b77d68f0faecf85c571bc2749fa0b",
+    "publication_sha256": "0a06bd3c73037e600fc11c2d8d4adc2eb40b77d68f0faecf85c571bc2749fa0b",
+    "columns": [
+      "label",
+      "component",
+      "loading",
+      "se",
+      "Q_p",
+      "n"
+    ]
+  },
+  {
+    "file": "inputs/g7_pathway_loci.parquet",
+    "source_table": "g7_pathway_loci",
+    "rows": 77,
+    "frozen_input_sha256": "460009bf58c21f6ccaedbb483dd3f9fd7a50536b0448f66bff3462f42aa138bf",
+    "publication_sha256": "460009bf58c21f6ccaedbb483dd3f9fd7a50536b0448f66bff3462f42aa138bf",
+    "columns": [
+      "rsid",
+      "allele",
+      "or",
+      "p",
+      "se_ish",
+      "chrom",
+      "pos",
+      "ref",
+      "alt",
+      "seen",
+      "set",
+      "genes_jakstat",
+      "genes_costim",
+      "fref",
+      "fc_sn",
+      "b_sn",
+      "s_sn",
+      "fc_sp",
+      "b_sp",
+      "s_sp"
+    ]
+  },
+  {
+    "file": "inputs/g7_pathway_test.parquet",
+    "source_table": "g7_pathway_test",
+    "rows": 2,
+    "frozen_input_sha256": "cba1d845654a3a2644ec9ab691bc79b50934e668db7cdb654efb20849e959757",
+    "publication_sha256": "cba1d845654a3a2644ec9ab691bc79b50934e668db7cdb654efb20849e959757",
+    "columns": [
+      "scope",
+      "n_JAKSTAT",
+      "slope_JAKSTAT",
+      "se_JAKSTAT",
+      "Qp_JAKSTAT",
+      "n_COSTIM",
+      "slope_COSTIM",
+      "se_COSTIM",
+      "Qp_COSTIM",
+      "delta",
+      "se_delta",
+      "p_one_sided"
+    ]
+  },
+  {
+    "file": "inputs/g8_robustness.parquet",
+    "source_table": "g8_robustness",
+    "rows": 23,
+    "frozen_input_sha256": "688a61dce5b9c694efce188625f65389406e18e6dca58517697623f6c03405f9",
+    "publication_sha256": "688a61dce5b9c694efce188625f65389406e18e6dca58517697623f6c03405f9",
+    "columns": [
+      "label",
+      "component",
+      "n",
+      "ivw",
+      "ivw_se",
+      "Q_p",
+      "wmedian",
+      "wmedian_se",
+      "egger",
+      "egger_se",
+      "egger_int",
+      "egger_int_se",
+      "egger_int_p",
+      "ivw_wc",
+      "loo_min",
+      "loo_max"
+    ]
+  },
+  {
+    "file": "inputs/g9_sim_grid.parquet",
+    "source_table": "g9_sim_grid",
+    "rows": 24,
+    "frozen_input_sha256": "0e9950f3101e8e0fbe64cc3478dd1bd9caf7d2e3e0524865906a07b936dea677",
+    "publication_sha256": "0e9950f3101e8e0fbe64cc3478dd1bd9caf7d2e3e0524865906a07b936dea677",
+    "columns": [
+      "scenario",
+      "pi_true",
+      "component",
+      "truth",
+      "mean",
+      "bias",
+      "rmse",
+      "coverage95",
+      "q_reject"
+    ]
+  },
+  {
+    "file": "inputs/g9_sim_pleiotropy.parquet",
+    "source_table": "g9_sim_pleiotropy",
+    "rows": 4,
+    "frozen_input_sha256": "a819fbe9cb1fdda822bcda1f0b40270d1d4bdcbf4e8d51ebcfd636f4f527c98c",
+    "publication_sha256": "a819fbe9cb1fdda822bcda1f0b40270d1d4bdcbf4e8d51ebcfd636f4f527c98c",
+    "columns": [
+      "scenario",
+      "component",
+      "mean_pi",
+      "q_reject"
+    ]
+  },
+  {
+    "file": "inputs/ref_endpoint_def.parquet",
+    "source_table": "ref_endpoint_def",
+    "rows": 5042,
+    "frozen_input_sha256": "5916202cb7da2476b4a2e189e5b6726568f89b892f76eaf674834e85591d7b2f",
+    "publication_sha256": "5916202cb7da2476b4a2e189e5b6726568f89b892f76eaf674834e85591d7b2f",
+    "columns": [
+      "TAGS",
+      "LEVEL",
+      "NAME",
+      "LONGNAME",
+      "SEX",
+      "INCLUDE",
+      "PRE_CONDITIONS",
+      "CONDITIONS",
+      "OUTPAT_ICD",
+      "OUTPAT_OPER",
+      "HD_MAINONLY",
+      "HD_ICD_10_ATC",
+      "HD_ICD_10",
+      "HD_ICD_9",
+      "HD_ICD_8",
+      "HD_ICD_10_EXCL",
+      "HD_ICD_9_EXCL",
+      "HD_ICD_8_EXCL",
+      "COD_MAINONLY",
+      "COD_ICD_10",
+      "COD_ICD_9",
+      "COD_ICD_8",
+      "COD_ICD_10_EXCL",
+      "COD_ICD_9_EXCL",
+      "COD_ICD_8_EXCL",
+      "OPER_NOM",
+      "OPER_HL",
+      "OPER_HP1",
+      "OPER_HP2",
+      "KELA_REIMB",
+      "KELA_REIMB_ICD",
+      "KELA_ATC_NEEDOTHER",
+      "KELA_ATC",
+      "KELA_VNRO_NEEDOTHER",
+      "KELA_VNRO",
+      "CANC_TOPO",
+      "CANC_TOPO_EXCL",
+      "CANC_MORPH",
+      "CANC_MORPH_EXCL",
+      "CANC_BEHAV",
+      "Special",
+      "version",
+      "PARENT",
+      "Latin",
+      "Modification_date",
+      "Modified_by",
+      "Modification_reason"
+    ]
+  },
+  {
+    "file": "inputs/ref_finngen_manifest.parquet",
+    "source_table": "ref_finngen_manifest",
+    "rows": 2754,
+    "frozen_input_sha256": "6b626e77004808c9d12c739c9c27f7e6a658e0544ad6c1c208ead7319f0fe42c",
+    "publication_sha256": "6b626e77004808c9d12c739c9c27f7e6a658e0544ad6c1c208ead7319f0fe42c",
+    "columns": [
+      "phenocode",
+      "phenotype",
+      "category",
+      "num_cases",
+      "num_controls",
+      "path_bucket",
+      "path_https"
+    ]
+  },
+  {
+    "file": "inputs/ref_hla_alleles.parquet",
+    "source_table": "ref_hla_alleles",
+    "rows": 6732,
+    "frozen_input_sha256": "b8ee838bb7f577f2bb27db969fcc6352550dbca47c2d02262471056102774d15",
+    "publication_sha256": "b8ee838bb7f577f2bb27db969fcc6352550dbca47c2d02262471056102774d15",
+    "columns": [
+      "endpoint",
+      "chrom",
+      "pos",
+      "ref",
+      "allele",
+      "pval",
+      "mlogp",
+      "beta",
+      "sebeta",
+      "af_alt",
+      "af_alt_cases",
+      "af_alt_controls"
+    ]
+  },
+  {
+    "file": "inputs/ref_panukbb_traits.parquet",
+    "source_table": "ref_panukbb_traits",
+    "rows": 32,
+    "frozen_input_sha256": "a60566c2fd9e8e9fa4808b393586ab7be9dee202ea329f5be6440d1528e957e5",
+    "publication_sha256": "a60566c2fd9e8e9fa4808b393586ab7be9dee202ea329f5be6440d1528e957e5",
+    "columns": [
+      "trait",
+      "trait_type",
+      "phenocode",
+      "modifier",
+      "description",
+      "n_cases_EUR",
+      "n_controls_EUR",
+      "url"
+    ]
+  },
+  {
+    "file": "inputs/ref_probes.parquet",
+    "source_table": "ref_probes",
+    "rows": 28,
+    "frozen_input_sha256": "2a2eb1fa04386a26ec5bb56fa9401ffb23bc128ad76664a9047c59c70e6d9a64",
+    "publication_sha256": "2a2eb1fa04386a26ec5bb56fa9401ffb23bc128ad76664a9047c59c70e6d9a64",
+    "columns": [
+      "probe",
+      "source",
+      "url",
+      "n_snp",
+      "median_n",
+      "file"
+    ]
+  },
+  {
+    "file": "inputs/ref_risteys_counts.parquet",
+    "source_table": "ref_risteys_counts",
+    "rows": 43,
+    "frozen_input_sha256": "2d3ec608774950d1cba67992f2d534ccd5f503645c0b39644818b9b092af0b2c",
+    "publication_sha256": "2d3ec608774950d1cba67992f2d534ccd5f503645c0b39644818b9b092af0b2c",
+    "columns": [
+      "endpoint",
+      "population",
+      "n_preqc",
+      "n_postqc",
+      "error"
+    ]
+  },
+  {
+    "file": "inputs/ref_risteys_keyfig.parquet",
+    "source_table": "ref_risteys_keyfig",
+    "rows": 41,
+    "frozen_input_sha256": "7e18685a6ad7daa67a22475d57a1d88b9848212c9f07335f691b54e2f63d160e",
+    "publication_sha256": "7e18685a6ad7daa67a22475d57a1d88b9848212c9f07335f691b54e2f63d160e",
+    "columns": [
+      "endpoint",
+      "n_all",
+      "n_female",
+      "n_male",
+      "age_median_all",
+      "age_median_female",
+      "age_median_male"
+    ]
+  },
+  {
+    "file": "inputs/ref_risteys_keyfig_fr.parquet",
+    "source_table": "ref_risteys_keyfig_fr",
+    "rows": 16,
+    "frozen_input_sha256": "0b645dc37ddefd9c373d42a92e71648200b5577fe67dfbb9f499dafdeef31325",
+    "publication_sha256": "0b645dc37ddefd9c373d42a92e71648200b5577fe67dfbb9f499dafdeef31325",
+    "columns": [
+      "endpoint",
+      "fr_n_all",
+      "fr_n_female",
+      "fr_n_male",
+      "fr_prev_pct_all",
+      "fr_age_median_all"
+    ]
+  },
+  {
+    "file": "inputs/ref_risteys_rel.parquet",
+    "source_table": "ref_risteys_rel",
+    "rows": 40400,
+    "frozen_input_sha256": "ef87a1f85beac4916c4b66955ebcf38a04ee976a64b500b4262d5e0330301bb6",
+    "publication_sha256": "ef87a1f85beac4916c4b66955ebcf38a04ee976a64b500b4262d5e0330301bb6",
+    "columns": [
+      "index_endpoint",
+      "endpoint",
+      "longname",
+      "fr_overlap_n",
+      "fr_jaccard_pct",
+      "fg_overlap_n",
+      "fg_jaccard_pct",
+      "fr_hr",
+      "fr_hr_lo",
+      "fr_hr_hi",
+      "fg_rg",
+      "fg_rg_lo",
+      "fg_rg_hi",
+      "raw_fr",
+      "raw_fg",
+      "raw_hr",
+      "raw_rg"
+    ]
+  },
+  {
+    "file": "inputs/t1_data_sources.parquet",
+    "source_table": "t1_data_sources",
+    "rows": 5,
+    "frozen_input_sha256": "b366304ab76a736a60f869e7e3adfdc390731827a6c0b1fbfbd3a4be5081c718",
+    "publication_sha256": "b366304ab76a736a60f869e7e3adfdc390731827a6c0b1fbfbd3a4be5081c718",
+    "columns": [
+      "Health system",
+      "Participants",
+      "Ancestry",
+      "RA codes audited (cases)",
+      "Controls",
+      "Analyses"
+    ]
+  },
+  {
+    "file": "inputs/tp_effects.parquet",
+    "source_table": "tp_effects",
+    "rows": 21998,
+    "frozen_input_sha256": "95870c4526a0b356a63c0416c7fe87391daa266bc46dfa5856a3f63d3e877f15",
+    "publication_sha256": "95870c4526a0b356a63c0416c7fe87391daa266bc46dfa5856a3f63d3e877f15",
+    "columns": [
+      "endpoint",
+      "chrom",
+      "pos",
+      "ref",
+      "alt",
+      "beta",
+      "se",
+      "af_alt",
+      "af_alt_cases",
+      "af_alt_controls",
+      "pval"
+    ]
+  },
+  {
+    "file": "inputs/tp_panel.parquet",
+    "source_table": "tp_panel",
+    "rows": 657,
+    "frozen_input_sha256": "3fbc3c58bbfd322f54bebdb9d673a6bfb4057797081d08f3e08aa73ea6baaee3",
+    "publication_sha256": "3fbc3c58bbfd322f54bebdb9d673a6bfb4057797081d08f3e08aa73ea6baaee3",
+    "columns": [
+      "source",
+      "chrom",
+      "pos",
+      "ref",
+      "alt",
+      "p"
+    ]
+  }
+]

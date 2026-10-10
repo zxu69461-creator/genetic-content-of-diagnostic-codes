@@ -1,0 +1,6 @@
+Health system	Participants	Ancestry	RA codes audited (cases)	Controls	Analyses
+FinnGen (Finland), release 13	519972	Finnish	M05 reimbursement-verified (6358); M05 any (12223); M06.0 seronegative (5137); M06 (8316); M05–M06 (16775)	Endpoint-specific; re-expressed against one near-population reference	HLA alleles; component loci; genome-wide covariances; registry co-coding and care records; discovery
+UK Biobank (UK), Pan-UKBB	420531	European	M05 (344); M06 (3324); phecode 714.1 (5554); self-report (4743)	All other participants (ICD-10); phecode exclusion ranges	HLA-B27 tag; component loci; replication
+Estonian Biobank (Estonia)	206159	European	M05 (3765); M06.0 (2864); M06 (10811); M06.9 (3213)	All non-cases (codes from all health-care encounters)	HLA-B27 tag; component loci
+Million Veteran Program (USA)	626433 (EUR 446640; AFR 120422; AMR 59371)	European, African, Hispanic	phecode 714.1 (EUR 10479; AFR 2384; AMR 1166)	Phecode exclusion ranges; pooled reference	HLA-B27 tag; component loci; replication components (AS, gout, OA)
+BioBank Japan (Japan)	178616	East Asian	RA (5348)	All non-cases	HLA-B27 tag; component loci

@@ -1,0 +1,9 @@
+{
+  "population": "EUR",
+  "n_samples": 503,
+  "n_loci": 22,
+  "max_r2": 0.008280840889825922,
+  "min_eigenvalue": 0.9050210018104625,
+  "condition_number": 1.2368899899357915,
+  "interchromosome_correlations": "fixed at zero"
+}

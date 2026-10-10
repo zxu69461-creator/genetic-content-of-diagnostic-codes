@@ -1,0 +1,7 @@
+{
+  "source": "https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_WIDE.gz",
+  "raw_source_sha256": "486ba62c031e3444d75d51beef40936399995bc945e6a18527260b10dcdeb084",
+  "rows": 22,
+  "extract_sha256": "a12aaca30258d6feb4f30ef9a35e5d514614c7ce95da77e1455a4fa286436d2e",
+  "peak_rss_mib": 218.875
+}

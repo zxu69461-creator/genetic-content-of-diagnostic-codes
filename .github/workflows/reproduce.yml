@@ -1,0 +1,26 @@
+name: reproduce
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: additional_file_3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Core atlas and AS-locus checks
+        run: python code/reproduce_core_results.py | tee core.json && grep -q '"status": "PASS' core.json
+      - name: Targeted analyses (recompute)
+        run: python revision/code/analyze_revision.py
+      - name: Independent verification
+        run: python revision/code/verify_revision.py | tee verify.json && grep -q '"status": "PASS"' verify.json

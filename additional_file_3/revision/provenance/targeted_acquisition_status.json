@@ -1,0 +1,30 @@
+[
+  {
+    "label": "RHEUMA_SERONEG",
+    "status": "fetched",
+    "rows": 22,
+    "url": "https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_RHEUMA_SERONEG_meta_out.tsv.gz",
+    "sha256": "ad0544fc73009925476d5b6b3e06591cfc6dd463e7a5259061bca2fce0f387b1"
+  },
+  {
+    "label": "RHEUMA_SEROPOS_WIDE",
+    "status": "fetched",
+    "rows": 22,
+    "url": "https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_RHEUMA_SEROPOS_WIDE_meta_out.tsv.gz",
+    "sha256": "dc4721da44df618c5f2f6b0a5a79ac39bb67df5554a47ab3fe02130957b9f4c0"
+  },
+  {
+    "label": "M13_ANKYLOSPON",
+    "status": "fetched",
+    "rows": 22,
+    "url": "https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_M13_ANKYLOSPON_meta_out.tsv.gz",
+    "sha256": "808988363f100c45c9ca7548421d2e413d8af0e177600453e2b7c807de21f2bc"
+  },
+  {
+    "label": "RHEUMA_OTHER_WIDE",
+    "status": "fetched",
+    "rows": 22,
+    "url": "https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_RHEUMA_OTHER_WIDE_meta_out.tsv.gz",
+    "sha256": "cbe5760b7c890ee8bfbd0fbe71784f6e65981476b572b44a760731bb9d8e3233"
+  }
+]

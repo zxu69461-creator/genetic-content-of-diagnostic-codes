@@ -1,0 +1,10 @@
+{
+  "original_IGAS_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST005001-GCST006000/GCST005529/igas_2103_23749187_as_efo0003898_1_ichip.sumstats.tsv.gz",
+  "original_file_sha256": "9a0d887ea79316c2c6d43c684aeb41ab077151b531058f052b1c2774cc807c0d",
+  "original_rows": 123941,
+  "included_panel_rows": 22,
+  "extraction_rule": "rsID membership in the frozen panel; all selected records retained",
+  "included_source_records": 23,
+  "frozen_panel_loci": 22,
+  "note": "Two original rs1801274 records; the unique record matching the frozen harmonized effects is identified in the numerical audit. Both source records are retained."
+}

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying article (submitted to Human Genomics)."
+title: "Measuring the genetic content of diagnostic codes: aggregate data and analytical code"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/zxu69461-creator/genetic-content-of-diagnostic-codes"
+authors:
+  - family-names: Xu
+    given-names: Zhida
+    orcid: "https://orcid.org/0009-0003-5277-7161"
+  - family-names: Cheng
+    given-names: Junhua
+  - family-names: Chen
+    given-names: Xiaping
+  - family-names: Luo
+    given-names: Jie
+  - family-names: Guo
+    given-names: Xingrong
+  - family-names: Zhu
+    given-names: Xiaohu
+keywords:
+  - HLA-B27
+  - seronegative rheumatoid arthritis
+  - ankylosing spondylitis
+  - FinnGen
+  - diagnostic codes

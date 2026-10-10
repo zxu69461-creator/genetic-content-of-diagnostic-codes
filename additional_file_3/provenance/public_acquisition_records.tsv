@@ -1,0 +1,441 @@
+dataset_id	source	sha256	bytes	n_rows	registered
+FinnGen_R13:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SERONEG.gz	0b979e5e285d4b86ea81de804af04e38a7b96ca8819bee005eb9002e38b150ad	802916439	14635742	2026-09-29 08:13:04.599441
+FinnGen_R13:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz	2cd02c26b0e6a9a5c58ffa89a0c23ff6f83a51e63e6d69d3dc8cb5d4c0715927	803190353	14632171	2026-09-29 08:22:10.971498
+FinnGen_R13:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ANKYLOSPON.gz	5d2f8c1244a583ca238b08b936d26fd4a76e0d0e3867c01ee5c53227f9f30aea	801663548	14649383	2026-09-29 08:24:28.718151
+FinnGen_R13:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PSORIARTH.gz	7f08282d6ea03276f00e21c4fd2b60dbf59507a2664fb8a0e5a678e4da4e7e81	802675848	14643026	2026-09-29 08:26:45.754286
+FinnGen_DF13_endpoints	https://www.finngen.fi/sites/default/files/inline-files/FINNGEN_ENDPOINTS_DF13_Final_2025-08-14_public.xlsx	0004624f727b96b4a56c6fac75ff182eb8bc3daf78cdf690bdad276b31fca6c7	864406	5042	2026-09-29 08:50:20.1542
+FinnGen_R13:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz	c3c9ff2342426dcab28e11ba5aad6908a1da19cdfbf81519e4fbfed1c84bb8a4	804008039	14631356	2026-09-29 09:57:40.312587
+FinnGen_R13_tabix:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz			457	2026-09-29 10:00:38.157881
+FinnGen_R13_tabix:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ANKYLOSPON.gz			457	2026-09-29 10:02:19.364669
+FinnGen_R13_tabix:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PSORIARTH.gz			457	2026-09-29 10:02:19.434941
+FinnGen_R13_tabix:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYMYALGIA.gz			457	2026-09-29 10:02:19.568401
+FinnGen_R13_tabix:M13_GOUT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GOUT.gz			457	2026-09-29 10:02:19.636287
+FinnGen_R13_tabix:M13_ARTHROSIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS.gz			457	2026-09-29 10:02:19.807388
+FinnGen_R13_tabix:SLE_FG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SLE_FG.gz			457	2026-09-29 10:31:09.473938
+FinnGen_R13_tabix:M13_SJOGREN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_SJOGREN.gz			457	2026-09-29 10:31:44.322921
+FinnGen_R13_tabix:K11_IBD_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_IBD_STRICT.gz			457	2026-09-29 10:32:09.92534
+FinnGen_R13_tabix:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz			457	2026-09-29 10:33:00.453714
+FinnGen_R13_tabix:T1D_EARLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_T1D_EARLY.gz			457	2026-09-29 10:33:00.522515
+FinnGen_R13_tabix:E4_HYTHY_AI_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_E4_HYTHY_AI_STRICT.gz			457	2026-09-29 10:34:44.163192
+FinnGen_R13_tabix:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SERONEG.gz			447	2026-09-29 10:35:18.361666
+FinnGen_R13_tabix:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz			447	2026-09-29 10:35:19.138668
+FinnGen_R13:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz	8e67e38dc767ae2775c672d8e7c0bb61ed4155e3c65ce3e06da51eafad998d91	801411844	14636984	2026-09-29 10:57:55.061581
+FinnGen_R13_tabix:RHEUMA_NOS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_NOS.gz			457	2026-09-29 11:03:23.950512
+FinnGen_R13_tabix:M13_RHEUMA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_RHEUMA.gz			457	2026-09-29 11:03:46.379573
+FinnGen_R13_tabix:K11_COELIAC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_COELIAC.gz			457	2026-09-29 11:03:46.579627
+FinnGen_R13_tabix:G6_MS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_G6_MS.gz			457	2026-09-29 11:03:46.670085
+FinnGen_R13_tabix:RHEUMA_SEROPOS_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_WIDE.gz			457	2026-09-29 11:03:46.744629
+FinnGen_R13:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYMYALGIA.gz	7439b631bf202d53dcecbd683c86cde5578396043a7cdcb9847f66e288cc55b2	803427936	14631838	2026-09-29 11:06:42.286756
+FinnGen_R13:RHEUMA_SEROPOS_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_WIDE.gz	486ba62c031e3444d75d51beef40936399995bc945e6a18527260b10dcdeb084	804737849	14631364	2026-09-29 11:11:47.740778
+FinnGen_R13_panel_ext:E4_HYTHY_AI_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_E4_HYTHY_AI_STRICT.gz			192	2026-09-29 11:14:40.257549
+FinnGen_R13_panel_ext:G6_MS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_G6_MS.gz			192	2026-09-29 11:14:40.362785
+FinnGen_R13:M13_GOUT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GOUT.gz	6d9e4ac207cd76ded0800e17d72d75f1880a6e0185a85f4bb52b7a88a5d3a4b3	805305205	14641237	2026-09-29 11:23:16.086814
+FinnGen_R13:M13_ARTHROSIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS.gz	cd6a37918138a1c5c5e1530bd2903e4f2fe136c48715e9b5c01214aa51c7a03f	810461255	14636469	2026-09-29 11:24:27.229515
+FinnGen_R13_tabix:H7_IRIDOCYC_ANTER	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_H7_IRIDOCYC_ANTER.gz			457	2026-09-29 11:26:42.820602
+FinnGen_R13_tabix:L12_PSORIASIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_L12_PSORIASIS.gz			457	2026-09-29 11:26:42.893442
+FinnGen_R13_tabix:SPONDYLOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SPONDYLOARTHRITIS.gz			457	2026-09-29 11:26:50.795399
+FinnGen_R13_tabix:M13_PALINDROMIC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PALINDROMIC.gz			457	2026-09-29 11:27:22.909346
+FinnGen_R13_tabix:M13_POLYARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYARTHRITIS.gz			457	2026-09-29 11:27:44.727859
+FinnGen_R13_tabix:M13_MONOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_MONOARTHRITIS.gz			457	2026-09-29 11:28:31.280215
+FinnGen_R13_panel_ext:JOINTPAIN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_JOINTPAIN.gz			649	2026-09-29 11:34:12.620447
+FinnGen_R13_panel_ext:K11_COELIAC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_COELIAC.gz			192	2026-09-29 11:34:12.658687
+FinnGen_R13_panel_ext:K11_IBD_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_IBD_STRICT.gz			192	2026-09-29 11:34:12.69353
+FinnGen_R13_panel_ext:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ANKYLOSPON.gz			184	2026-09-29 11:34:12.72887
+FinnGen_R13_panel_ext:M13_ARTHROSIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS.gz			192	2026-09-29 11:34:12.762542
+FinnGen_R13_panel_ext:BMI_IRN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_BMI_IRN.gz			649	2026-09-29 11:34:54.702043
+FinnGen_R13_panel_ext:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz			184	2026-09-29 11:39:19.099993
+FinnGen_R13_panel_ext:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYMYALGIA.gz			184	2026-09-29 11:39:19.138594
+FinnGen_R13_panel_ext:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PSORIARTH.gz			184	2026-09-29 11:39:19.177002
+FinnGen_R13_panel_ext:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz			184	2026-09-29 11:39:19.216639
+FinnGen_R13_panel_ext:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SERONEG.gz			184	2026-09-29 11:39:19.255421
+FinnGen_R13_panel_ext:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz			184	2026-09-29 11:39:19.296257
+FinnGen_R13_panel_ext:M13_ARTHROSIS_KNEE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS_KNEE.gz			649	2026-09-29 11:41:19.297378
+FinnGen_R13_panel_ext:M13_ARTHTROSIS_COX	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHTROSIS_COX.gz			649	2026-09-29 11:41:19.387084
+FinnGen_R13_panel_ext:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz			184	2026-09-29 11:41:19.419776
+FinnGen_R13_panel_ext:M13_GOUT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GOUT.gz			192	2026-09-29 11:41:19.451815
+FinnGen_R13_panel_ext:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYMYALGIA.gz			192	2026-09-29 11:41:19.484065
+FinnGen_R13_panel_ext:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PSORIARTH.gz			184	2026-09-29 11:41:19.515644
+FinnGen_R13_panel_ext:M13_RHEUMA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_RHEUMA.gz			192	2026-09-29 11:41:19.546465
+FinnGen_R13_panel_ext:M13_SJOGREN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_SJOGREN.gz			192	2026-09-29 11:41:19.578505
+FinnGen_R13_tabix:JUVEN_ARTHR	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_JUVEN_ARTHR.gz			457	2026-09-29 11:45:18.4835
+FinnGen_R13_tabix:M13_GIANTCELL	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GIANTCELL.gz			457	2026-09-29 11:45:46.265903
+FinnGen_R13_tabix:M13_ARTHROSIS_POLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS_POLY.gz			457	2026-09-29 11:45:46.468145
+FinnGen_R13_tabix:CHONDRO_OTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_CHONDRO_OTH.gz			457	2026-09-29 11:46:07.477747
+FinnGen_R13_panel_ext:PAIN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_PAIN.gz			649	2026-09-29 11:48:29.374135
+FinnGen_R13_panel_ext:RHEUMA_NOS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_NOS.gz			192	2026-09-29 11:48:29.409208
+FinnGen_R13_panel_ext:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz			184	2026-09-29 11:48:29.443838
+FinnGen_R13_panel_ext:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SERONEG.gz			184	2026-09-29 11:48:29.477084
+FinnGen_R13_panel_ext:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz			184	2026-09-29 11:48:29.51125
+FinnGen_R13_panel_ext:RHEUMA_SEROPOS_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_WIDE.gz			192	2026-09-29 11:48:29.544389
+FinnGen_R13_panel_ext:SLE_FG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SLE_FG.gz			192	2026-09-29 11:48:29.57849
+FinnGen_R13_panel_ext:T1D_EARLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_T1D_EARLY.gz			192	2026-09-29 11:48:29.613867
+FinnGen_R13_hla:BMI_IRN	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_BMI_IRN.gz	f759b9cbd2f954cfaac6f689c7ad34b443e3c722aa75c0c39841f21f556d8cf3	4930	187	2026-09-29 12:02:21.334866
+FinnGen_R13_hla:CHONDRO_OTH	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_CHONDRO_OTH.gz	4e9a9e539be1ed35d2f74147c0f85d78973f2b20bcef527153a461e30dfad833	6357	187	2026-09-29 12:02:21.353218
+FinnGen_R13_hla:E4_HYTHY_AI_STRICT	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_E4_HYTHY_AI_STRICT.gz	96746aa73cc9181c1924ac3ca201f4a778e5bf7e0858142b9048d381f3b42ce3	6649	187	2026-09-29 12:02:21.370471
+FinnGen_R13_hla:G6_MS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_G6_MS.gz	f0d4b6822493f97883bee147f46a81cf4984ecd83c0187fdcda0922348df5d75	6592	187	2026-09-29 12:02:21.388259
+FinnGen_R13_hla:H7_IRIDOCYC_ANTER	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_H7_IRIDOCYC_ANTER.gz	4d06b82c1acbb41704491bde5821a41e186f34ae099566997a3a4cec60e93641	6591	187	2026-09-29 12:02:21.405597
+FinnGen_R13_hla:JUVEN_ARTHR	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_JUVEN_ARTHR.gz	a85f41206c5963bd78ffefc71d2d6b47992a7ebc37b57b9d5bcd7f3f5ff45758	6564	187	2026-09-29 12:02:21.422638
+FinnGen_R13_hla:K11_COELIAC	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_K11_COELIAC.gz	253a2bc2f54b0ee2f6ec495f0ec49416d5472258fe1a1dd602280b3cca1a5576	6691	187	2026-09-29 12:02:21.440249
+FinnGen_R13_hla:K11_IBD_STRICT	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_K11_IBD_STRICT.gz	21e0733fb67a62f412362c382dd94ec9ebf62dd5e5b36dd6d7b589c350432c4c	6518	187	2026-09-29 12:02:21.458534
+FinnGen_R13_hla:L12_PSORIASIS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_L12_PSORIASIS.gz	1cd3b70ebf30fc276dfda204c7a2a5b195808086dfdb5c93db4c3b1245202374	6604	187	2026-09-29 12:02:21.477459
+FinnGen_R13_hla:M13_ACHILLESTEND	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ACHILLESTEND.gz	4c1a0024ce782db163cb0a60dcf483a838a95903a6bfc546606834958418192b	6435	187	2026-09-29 12:02:21.494989
+FinnGen_R13_hla:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ANKYLOSPON.gz	29813470fe26a5ec8ba6f8fff81ad10ed0c3bbc1c6289860df9a40974524531b	6650	187	2026-09-29 12:02:21.512972
+FinnGen_R13_hla:M13_ARTHROSIS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ARTHROSIS.gz	70e04fed9ebee2737c93bf5650656ca6373377a1193f50bd0076a1925a9017ab	6481	187	2026-09-29 12:02:21.530122
+FinnGen_R13_hla:M13_ARTHROSIS_KNEE	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ARTHROSIS_KNEE.gz	f5732738ebcf90616b604b594fb448533ee454502afacd9fc8dab5e38e85c07e	6497	187	2026-09-29 12:02:21.547857
+FinnGen_R13_hla:M13_ARTHROSIS_POLY	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ARTHROSIS_POLY.gz	48b4da7de715e9ba0dc20f9707f5aed32dc4fd73872724f532b3e6515a45aa4f	6493	187	2026-09-29 12:02:21.564698
+FinnGen_R13_hla:M13_ARTHTROSIS_COX	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ARTHTROSIS_COX.gz	4ac3aef469fba6613b8aa91f79d3bd04eb4e4ed3c39db0e06daedc40edef8580	6463	187	2026-09-29 12:02:21.58167
+FinnGen_R13_hla:M13_ENTESOPATHYOTH	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_ENTESOPATHYOTH.gz	d0f53142569559e1e96ebfd5691085529d7adac65257e4091b24b04ee25b8404	6404	187	2026-09-29 12:02:21.598671
+FinnGen_R13_hla:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz	f3f5a643e03b9c76f7c60df10929089394782bacb5358efd42c6aed1fc49d8b6	6412	187	2026-09-29 12:02:21.616159
+FinnGen_R13_hla:M13_GIANTCELL	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_GIANTCELL.gz	6b6a65a71e053f0db1984aa5aee218e258cf68769e08f0f4af5d277f057be4b3	6492	187	2026-09-29 12:02:21.633129
+FinnGen_R13_hla:M13_GOUT	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_GOUT.gz	de74e2449ffd1d3dbf142918281eda584b0c48e9924bde0c017a8937e87cbd66	6474	187	2026-09-29 12:02:21.650216
+FinnGen_R13_hla:M13_MONOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_MONOARTHRITIS.gz	d9dfd8d3928f2a290750d57dc74a0ffe619adfbac50498ac9eb067d15e1fc22e	6449	187	2026-09-29 12:02:21.667062
+FinnGen_R13_hla:M13_PALINDROMIC	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_PALINDROMIC.gz	d0951311ce788bc9b4cf8eb1ca9ca23bcfe4505b86bb7e410174fe031398c29a	6454	187	2026-09-29 12:02:21.68421
+FinnGen_R13_hla:M13_POLYARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_POLYARTHRITIS.gz	c120d41227941cff576ee29a8632b607ded1cba747d825b2b9199077f9e253fe	6494	187	2026-09-29 12:02:21.701315
+FinnGen_R13_hla:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_POLYMYALGIA.gz	9242d4173c07cc9d82ba303b41785ea0415d5ae0a0e20ae4a5e6275a1b2a0908	6548	187	2026-09-29 12:02:21.718389
+FinnGen_R13_hla:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_PSORIARTH.gz	da6e2acd832a1bb03fb59e10ecaa82628876107b43293951cde90fe52d4eaf39	6617	187	2026-09-29 12:02:21.735273
+FinnGen_R13_hla:M13_REACTARTH	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_REACTARTH.gz	70e602fa22275d1d51c17f9ecac449e32d35222d4dfd32105e3f41d561c27189	6541	187	2026-09-29 12:02:21.752108
+FinnGen_R13_hla:M13_RHEUMA	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_RHEUMA.gz	0d954e040fd0c7b263fc6f1db42d5c8ae700d6864e2b6cf4931a25264ae7e25c	6654	187	2026-09-29 12:02:21.768848
+FinnGen_R13_hla:M13_SJOGREN	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_M13_SJOGREN.gz	f7884d6e29c15dd8094f65272e00e1a4f5cad6f504994fac8d24c00abe056e44	6564	187	2026-09-29 12:02:21.786712
+FinnGen_R13_hla:RHEUMA_NOS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEUMA_NOS.gz	725216e74bde2edc4263f392f80d27635a97d8b7566908fbdb5c768546ae661c	6638	187	2026-09-29 12:02:21.803701
+FinnGen_R13_hla:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz	2feb3cd04ac3ea7ae3549741a58963164d1c45f3b13dd4cad50fc78422cfd196	6619	187	2026-09-29 12:02:21.820575
+FinnGen_R13_hla:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEUMA_SERONEG.gz	84b74324103e5b9339dc52c4c4d3c407516025c8e33a136b6070d4683dbdae35	6564	187	2026-09-29 12:02:21.837488
+FinnGen_R13_hla:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz	1bacd08de870717b6b19b97f21f0ebf978454444bd7c3ba43f17923c0ef4cb4d	6670	187	2026-09-29 12:02:21.854984
+FinnGen_R13_hla:RHEUMA_SEROPOS_WIDE	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEUMA_SEROPOS_WIDE.gz	4dd948be7c88753ad9e51602cb77f820568dac03eb9d4c14ec5bab0c899f12c6	6639	187	2026-09-29 12:02:21.871779
+FinnGen_R13_hla:RHEU_ARTHRITIS_OTH	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_RHEU_ARTHRITIS_OTH.gz	2e9d90d440cd6b418f2559499392e5ad1bee1fbe8c16980d9e00160753dc6504	6585	187	2026-09-29 12:02:21.889327
+FinnGen_R13_hla:SLE_FG	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_SLE_FG.gz	14bb9071d6c881a1ee0d2823877634c251151ae8c096b0e7a5a49ded93eb666b	6561	187	2026-09-29 12:02:21.906449
+FinnGen_R13_hla:SPONDYLOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_SPONDYLOARTHRITIS.gz	e8c9e66e7b3a71ea6d25a05033d9b7f49536a8ee3755f2dd2732563f87a35ce0	6606	187	2026-09-29 12:02:21.924042
+FinnGen_R13_hla:T1D_EARLY	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_T1D_EARLY.gz	06b79e2e0db29e56cafa9eb9fd4b22fd1ab80a14a46f8540312a836d58ba4bf4	6732	187	2026-09-29 12:02:21.940912
+FinnGen_R13_panel_ext:CHONDRO_OTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_CHONDRO_OTH.gz			192	2026-09-29 12:18:45.693278
+FinnGen_R13_panel_ext:H7_IRIDOCYC_ANTER	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_H7_IRIDOCYC_ANTER.gz			192	2026-09-29 12:18:50.644218
+FinnGen_R13_panel_ext:JUVEN_ARTHR	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_JUVEN_ARTHR.gz			192	2026-09-29 12:18:53.050972
+FinnGen_R13_panel_ext:L12_PSORIASIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_L12_PSORIASIS.gz			192	2026-09-29 12:18:53.09395
+FinnGen_R13_panel_ext:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ANKYLOSPON.gz			0	2026-09-29 12:18:53.129326
+FinnGen_R13_panel_ext:M13_ARTHROSIS_POLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS_POLY.gz			192	2026-09-29 12:18:53.174297
+FinnGen_R13_panel_ext:M13_FIBROMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_FIBROMYALGIA.gz			0	2026-09-29 12:18:53.206879
+FinnGen_R13_panel_ext:M13_GIANTCELL	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GIANTCELL.gz			192	2026-09-29 12:18:53.249548
+FinnGen_R13_panel_ext:M13_MONOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_MONOARTHRITIS.gz			192	2026-09-29 12:25:50.977721
+FinnGen_R13_panel_ext:M13_PALINDROMIC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PALINDROMIC.gz			192	2026-09-29 12:25:53.578383
+FinnGen_R13_panel_ext:M13_POLYARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYARTHRITIS.gz			192	2026-09-29 12:25:53.620655
+FinnGen_R13_panel_ext:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PSORIARTH.gz			0	2026-09-29 12:25:53.649522
+FinnGen_R13_panel_ext:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_OTHER_WIDE.gz			0	2026-09-29 12:25:53.67814
+FinnGen_R13_panel_ext:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SERONEG.gz			0	2026-09-29 12:25:53.705422
+FinnGen_R13_panel_ext:RHEUMA_SEROPOS_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_SEROPOS_STRICT.gz			0	2026-09-29 12:25:53.733614
+FinnGen_R13_panel_ext:SPONDYLOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SPONDYLOARTHRITIS.gz			192	2026-09-29 12:25:55.019202
+FinnGen_R13_susie:BMI_IRN	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_BMI_IRN.SUSIE.cred.summary.tsv	1ee431f0823f5149c343e6930b17ee01ec24332e80961bc248bb1440f4903eef	205818	791	2026-09-29 12:27:45.542449
+FinnGen_R13_susie:CHONDRO_OTH	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_CHONDRO_OTH.SUSIE.cred.summary.tsv	8ceea24bda7ef7f6f7ccad3649312f8961a613221a1e1b50daf92ff04bcf8dd2	248	0	2026-09-29 12:27:45.559923
+FinnGen_R13_susie:E4_HYTHY_AI_STRICT	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_E4_HYTHY_AI_STRICT.SUSIE.cred.summary.tsv	a387895d2e2c1b431a50344d583d72998417840b146594fd10ef8c796aff5228	78287	291	2026-09-29 12:27:45.578796
+FinnGen_R13_susie:H7_IRIDOCYC_ANTER	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_H7_IRIDOCYC_ANTER.SUSIE.cred.summary.tsv	f92ad8489af21e12b34f4399bf7d320b3b955d77a81de1f70e9f3cc45546ed89	4764	18	2026-09-29 12:27:45.597608
+FinnGen_R13_susie:JOINTPAIN	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_JOINTPAIN.SUSIE.cred.summary.tsv	d5b6a04ed78591bb2120b08ca1b75781abd249a12a2714ad9bc37898b878ed1c	4252	16	2026-09-29 12:27:45.616201
+FinnGen_R13_susie:JUVEN_ARTHR	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_JUVEN_ARTHR.SUSIE.cred.summary.tsv	bf19243949ce55c78575d057177b53ed36f554598c595998045a1091332dafcc	1202	4	2026-09-29 12:27:45.634203
+FinnGen_R13_susie:K11_COELIAC	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_K11_COELIAC.SUSIE.cred.summary.tsv	4158958ee953e656d2d4abac006a3afa6ed5766a1f46f054ab8043e9f02767d5	9302	36	2026-09-29 12:27:45.652603
+FinnGen_R13_susie:K11_IBD_STRICT	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_K11_IBD_STRICT.SUSIE.cred.summary.tsv	83dee755e15ae76305d9308d8f978d1b0d461c7c9be0a4957fda9dd459762f4e	26893	101	2026-09-29 12:27:45.6709
+FinnGen_R13_susie:L12_PSORIASIS	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_L12_PSORIASIS.SUSIE.cred.summary.tsv	70dbb468316cd1539f15e21613e38983bd8e8c8dcafaa75f060f87f6e632f640	17813	67	2026-09-29 12:27:45.689043
+FinnGen_R13_susie:M13_ACHILLESTEND	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ACHILLESTEND.SUSIE.cred.summary.tsv	9c9a255dcc87885e716ccde81637f334a2aa41d9f2e48366d170f70582336559	677	2	2026-09-29 12:27:45.707054
+FinnGen_R13_susie:M13_ANKYLOSPON	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ANKYLOSPON.SUSIE.cred.summary.tsv	87c060c2a8016e0f6f2a9e10bbc3562eed47d6ef41260d2877841d3bbe7e7af1	6990	27	2026-09-29 12:27:45.725395
+FinnGen_R13_susie:M13_ARTHROSIS	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ARTHROSIS.SUSIE.cred.summary.tsv	c08dfb5e7762ca145fe95fe927ab1209adc2e57bc5ebe2126f58c57edab6ca46	36517	137	2026-09-29 12:27:45.743733
+FinnGen_R13_susie:M13_ARTHROSIS_KNEE	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ARTHROSIS_KNEE.SUSIE.cred.summary.tsv	793cb5bd6ba29c77edaa646c28985ceb327f77baa1b47858febf4dfdf96a4bb2	36859	136	2026-09-29 12:27:45.762312
+FinnGen_R13_susie:M13_ARTHROSIS_POLY	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ARTHROSIS_POLY.SUSIE.cred.summary.tsv	f1b686fbf640ce3de6b67a3f3191ced22e8ecacb5daf47916791b4cd7fa8a7bc	1234	4	2026-09-29 12:27:45.780357
+FinnGen_R13_susie:M13_ARTHTROSIS_COX	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ARTHTROSIS_COX.SUSIE.cred.summary.tsv	cdf381fa2e3e0d80232af24e041e96687f0eb7d78cb42ab172c2f8e2b1b90373	23139	85	2026-09-29 12:27:45.798682
+FinnGen_R13_susie:M13_DORSALGIA	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_DORSALGIA.SUSIE.cred.summary.tsv	53f79488a0f57403f33d2a9784536b1bc1e3a75e1185ba44667ea434b46456f9	13184	49	2026-09-29 12:27:45.816393
+FinnGen_R13_susie:M13_ENTESOPATHYOTH	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_ENTESOPATHYOTH.SUSIE.cred.summary.tsv	35182ce3f8d7042cceec59b9b7ec50955149a78f94713eeed1a7466c74e720a1	930	3	2026-09-29 12:27:45.83488
+FinnGen_R13_susie:M13_GIANTCELL	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_GIANTCELL.SUSIE.cred.summary.tsv	3a78108e886943e3db0b9829de878680657334d40cc74a455c582c60c9ebb557	250	0	2026-09-29 12:27:45.852786
+FinnGen_R13_susie:M13_GOUT	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_GOUT.SUSIE.cred.summary.tsv	12d189b2cd1e49258077cfd9b33f31401e127f82ea8ae3ae82091371296f2f91	7149	27	2026-09-29 12:27:45.871151
+FinnGen_R13_susie:M13_LIMBPAIN	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_LIMBPAIN.SUSIE.cred.summary.tsv	db3d928b35aac89dcf2524f6e9a7f7fc7a14b6dfc966ca6be8c096a442ed08bd	2520	9	2026-09-29 12:27:45.889366
+FinnGen_R13_susie:M13_MONOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_MONOARTHRITIS.SUSIE.cred.summary.tsv	f4df2e3e84f0be5129d83b736a22fa3a8d41f83df6df19e3425c2190b6b6807b	413	1	2026-09-29 12:27:45.907285
+FinnGen_R13_susie:M13_POLYMYALGIA	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_POLYMYALGIA.SUSIE.cred.summary.tsv	27f5d69671c7d18fc78a1aee57ad6a452e71a689e809cd0d13943b89e8c82b35	621	2	2026-09-29 12:27:45.924915
+FinnGen_R13_susie:M13_PSORIARTH	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_PSORIARTH.SUSIE.cred.summary.tsv	ec26826d8d5560743e6649cd7ba808b35f0ab6c068f46992d233f7a5b605d235	4822	18	2026-09-29 12:27:45.943
+FinnGen_R13_susie:M13_REACTARTH	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_REACTARTH.SUSIE.cred.summary.tsv	fe78b5450a9808f4eaa96835053ebb4ab61aa194297a060ee904d05976bcb939	898	3	2026-09-29 12:27:45.960936
+FinnGen_R13_susie:M13_RHEUMA	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_RHEUMA.SUSIE.cred.summary.tsv	cecaf1f6bc60e702bdeb3d95170c0cd2ef3e4d79de09985ed09823dd7f92d464	13412	51	2026-09-29 12:27:45.979038
+FinnGen_R13_susie:M13_SJOGREN	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_M13_SJOGREN.SUSIE.cred.summary.tsv	2152522a79e556bf83bab2b28249d5b1fbe69c70901e7034a12e81fb1be47103	1455	5	2026-09-29 12:27:45.996848
+FinnGen_R13_susie:PAIN	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_PAIN.SUSIE.cred.summary.tsv	9ef125fef16d4319d5a7fd75119e0f9b10fd3594ba114a487f4be00afeae3a7e	18496	71	2026-09-29 12:27:46.01536
+FinnGen_R13_susie:RHEUMA_OTHER_WIDE	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_RHEUMA_OTHER_WIDE.SUSIE.cred.summary.tsv	90db6fdae232c0f364e0052220642d4ebacdc4e4669cb115a92aaa9fbea6d56b	2562	9	2026-09-29 12:27:46.033196
+FinnGen_R13_susie:RHEUMA_SERONEG	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_RHEUMA_SERONEG.SUSIE.cred.summary.tsv	a151fb35ad1f40e15917c465c3761b2f72815c6533a8797b01e4a9ce780ac152	1754	6	2026-09-29 12:27:46.050935
+FinnGen_R13_susie:RHEUMA_SEROPOS_WIDE	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_RHEUMA_SEROPOS_WIDE.SUSIE.cred.summary.tsv	76ec22e9e1a7dee5c50c4dd9efc192e7e29ffc45fe8c36fc658c879bf3d829a7	12159	45	2026-09-29 12:27:46.069131
+FinnGen_R13_susie:SLE_FG	https://finngen-public-data-r13.storage.googleapis.com/finemap/summary/finngen_R13_SLE_FG.SUSIE.cred.summary.tsv	e8ec0a09cf717749998ba161f9c8217a6eaca488b2eee8203a5e7f283d7c6d38	3274	12	2026-09-29 12:27:46.086973
+GWASCatalog:GCST90476232	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476232/harmonised/GCST90476232.h.tsv.gz			542	2026-09-29 12:36:45.272203
+GWASCatalog:GCST90132226	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90132001-GCST90133000/GCST90132226/harmonised/GCST90132226.h.tsv.gz			523	2026-09-29 12:36:45.335554
+GWASCatalog:GCST90475735	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90475001-GCST90476000/GCST90475735/harmonised/GCST90475735.h.tsv.gz			542	2026-09-29 12:36:45.432856
+GWASCatalog:GCST90474000	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90473001-GCST90474000/GCST90474000/harmonised/GCST90474000.h.tsv.gz			1	2026-09-29 12:37:21.41062
+GWASCatalog:GCST90474065	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90474001-GCST90475000/GCST90474065/harmonised/GCST90474065.h.tsv.gz			8	2026-09-29 12:37:48.049939
+GWASCatalog:GCST90474002	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90474001-GCST90475000/GCST90474002/harmonised/GCST90474002.h.tsv.gz			89	2026-09-29 12:41:05.178613
+GWASCatalog:GCST90479027	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90479001-GCST90480000/GCST90479027/harmonised/GCST90479027.h.tsv.gz			75	2026-09-29 12:41:53.403971
+GWASCatalog:GCST90479025	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90479001-GCST90480000/GCST90479025/GCST90479025.tsv.gz	5206a5d2c0bb584eafa0632aa42c18a330d84bd88b97cc5664e6b5a7d1d0f36b	585969114	19707696	2026-09-29 12:53:51.523074
+GWASCatalog:GCST90479025	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90479001-GCST90480000/GCST90479025/GCST90479025.tsv.gz	5206a5d2c0bb584eafa0632aa42c18a330d84bd88b97cc5664e6b5a7d1d0f36b	585969114	19707696	2026-09-29 13:15:30.405744
+GWASCatalog:GCST90476254	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476254/harmonised/GCST90476254.h.tsv.gz			75	2026-09-29 13:27:35.665959
+file:Ishigaki2022_SuppTables_MOESM4.xlsx	https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-022-01213-w/MediaObjects/41588_2022_1213_MOESM4_ESM.xlsx (Ishigaki 2022 Nat Genet, doi:10.1038/s41588-022-01213-w)	0a0a407a59e6f5646cbcb1f8777831c917a7d1087f2e8bf09407848c511eeb3c	676875		2026-09-29 13:44:50.774007
+PASS:BMI1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_BMI1.sumstats	ce9a1fcd0ed43fc225757f08231845bcee3ac611c805f6e12ee801144a08ee3b	54125230	1026920	2026-09-29 18:32:55.206847
+PASS:Height1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Height1.sumstats	efde30273e918b5b2e921b14d0c84b04dd7c30afdb2608c7832a5462556d75ac	53809525	1025715	2026-09-29 18:33:52.998035
+PASS:Years_of_Education1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Years_of_Education1.sumstats	9d91e97316dbb56bcffaa0cd8ec7c0be687349f52b4ecd337f9175d33f1da9dd	53070836	1008528	2026-09-29 18:34:48.146588
+PASS:LDL	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_LDL.sumstats	e265d1119983e5c948f229f93203871b0303e8cbfd56b9c85e36ad46bf98fe4f	52670644	1017973	2026-09-29 18:35:43.310149
+PASS:HDL	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_HDL.sumstats	6d437b37243c099534f2dec260cef26b0283ed0edc2ad1ab5b8ad2d64d68989a	52736154	1019272	2026-09-29 18:36:43.910375
+PASS:Triglycerides	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Triglycerides.sumstats	855cd3e970f61fcf61266e1f2075d373206d95162cd7c1e87dfd54ae2beb9a3d	52665975	1017798	2026-09-29 18:37:37.91618
+PASS:Fasting_Glucose	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Fasting_Glucose.sumstats	0e910cb8eec1be81aba7cbd5a7990ec724a2085371af4232c8185bc9f9bad3e6	57682094	1115624	2026-09-29 18:38:39.15848
+PASS:Type_2_Diabetes	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Type_2_Diabetes.sumstats	60fe50c0a2b2befaaac83f7183dc79656efe3a9c5788a93c4a9009f0cf6fa0f6	38117993	968509	2026-09-29 18:39:20.048435
+PASS:Coronary_Artery_Disease	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Coronary_Artery_Disease.sumstats	da3c4b6ad37f378626c74279303dd79104f7c340061beb15657007f6aee99bd1	53267643	925223	2026-09-29 18:40:15.805766
+PASS:Ever_Smoked	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Ever_Smoked.sumstats	e04d1dd0037c0b35aecd7e0042620dbff24b0462002bb6aac8d531d20ad28067	54809110	1060317	2026-09-29 18:41:12.013463
+PASS:Neuroticism	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Neuroticism.sumstats	6a21d8e140c3340cf0c99d894b1deebf229025d955411ddef2d887ffa1f48ba3	45063084	1115393	2026-09-29 18:42:00.185456
+PASS:DS	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_DS.sumstats	d922aebd8971e790522bfd025e32fe0ad993400e2ed48301974fcb4085a77423	45056285	1115393	2026-09-29 18:42:48.924984
+PASS:SWB	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_SWB.sumstats	91b97a8b686ecff7d641acaadcc4d8d002567aef03f4586c5456df96be215723	19329722	477899	2026-09-29 18:43:13.133231
+PASS:Schizophrenia	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Schizophrenia.sumstats	77afc022a9053149f2a818250394f1eb36c64e8977626bd6b1b20cb7dc1bd513	55730612	1083014	2026-09-29 18:44:09.890578
+PASS:Bipolar_Disorder	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Bipolar_Disorder.sumstats	98ef98e7db07c3796726bde31b5907bd4dd68de8e440b1e73d7fad67ba51d69d	38756281	750635	2026-09-29 18:44:51.903434
+PASS:Anorexia	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Anorexia.sumstats	9fd610a3763bf1dbc68e0ea7279c820c2a7b93c3d56cdb86cee925ae76c4a150	48139674	931184	2026-09-29 18:45:42.421
+file:risteys_R13_RHEUMA_SERONEG_codewas.tsv	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG (CodeWAS table parsed from static HTML, 2026-09-29)	3641df3815700e555333609d6cbff369516a5c2a7cb60598cb99e004c9b6d971	126286		2026-09-29 18:45:48.273805
+file:risteys_R10_RHEUMA_SERONEG_survival.csv	https://r10.risteys.finngen.fi/api/endpoints/RHEUMA_SERONEG/assocs.csv (FinnGen R10 survival HRs)	41aa5e22fe6e51a08d7221ec2b976ba664818c468c7fe5843dc8501c0f282555	88805		2026-09-29 18:45:48.928285
+PASS:Autism	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Autism.sumstats	0beda39e8c1161f5771195f913d330d7b3bb0dd4a0bd52e7f3625e6c1011cc7a	46281593	1173307	2026-09-29 18:46:39.714251
+risteys:CHONDRO_OTH	https://r13.risteys.finngen.fi/endpoints/CHONDRO_OTH			4890	2026-09-29 18:51:42.364054
+risteys:E4_HYTHY_AI_STRICT	https://r13.risteys.finngen.fi/endpoints/E4_HYTHY_AI_STRICT			4890	2026-09-29 18:52:14.970305
+risteys:G6_MS	https://r13.risteys.finngen.fi/endpoints/G6_MS			4890	2026-09-29 18:52:29.648673
+risteys:H7_IRIDOCYC_ANTER	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYC_ANTER			4890	2026-09-29 18:52:43.746033
+risteys:JOINTPAIN	https://r13.risteys.finngen.fi/endpoints/JOINTPAIN			4890	2026-09-29 18:53:06.490102
+risteys:JUVEN_ARTHR	https://r13.risteys.finngen.fi/endpoints/JUVEN_ARTHR			4890	2026-09-29 18:53:24.112316
+risteys:K11_COELIAC	https://r13.risteys.finngen.fi/endpoints/K11_COELIAC			4890	2026-09-29 18:53:35.295482
+risteys:K11_IBD_STRICT	https://r13.risteys.finngen.fi/endpoints/K11_IBD_STRICT			4890	2026-09-29 18:53:53.154487
+risteys:L12_PSORIASIS	https://r13.risteys.finngen.fi/endpoints/L12_PSORIASIS			4890	2026-09-29 18:54:14.109786
+risteys:M13_ANKYLOSPON	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON			4890	2026-09-29 18:54:30.234333
+risteys:M13_ARTHROSIS	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS			4890	2026-09-29 18:54:53.977402
+risteys:M13_ARTHROSIS_KNEE	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_KNEE			4890	2026-09-29 18:55:12.144637
+risteys:M13_ARTHROSIS_POLY	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_POLY			4890	2026-09-29 18:55:35.341505
+risteys:M13_ARTHTROSIS_COX	https://r13.risteys.finngen.fi/endpoints/M13_ARTHTROSIS_COX			4890	2026-09-29 18:56:23.255934
+risteys:M13_FIBROMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_FIBROMYALGIA			4890	2026-09-29 18:56:43.279868
+risteys:M13_GIANTCELL	https://r13.risteys.finngen.fi/endpoints/M13_GIANTCELL			4890	2026-09-29 18:57:01.787311
+risteys:M13_GOUT	https://r13.risteys.finngen.fi/endpoints/M13_GOUT			4890	2026-09-29 18:57:25.343961
+risteys:M13_MONOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_MONOARTHRITIS			4890	2026-09-29 18:57:46.005473
+risteys:M13_PALINDROMIC	https://r13.risteys.finngen.fi/endpoints/M13_PALINDROMIC			4890	2026-09-29 18:58:01.411307
+risteys:M13_POLYARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_POLYARTHRITIS			4890	2026-09-29 18:58:20.585487
+risteys:M13_POLYMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_POLYMYALGIA			4890	2026-09-29 18:58:36.799219
+risteys:M13_PSORIARTH	https://r13.risteys.finngen.fi/endpoints/M13_PSORIARTH			4890	2026-09-29 18:59:02.270208
+risteys:M13_RHEUMA	https://r13.risteys.finngen.fi/endpoints/M13_RHEUMA			4890	2026-09-29 18:59:22.684894
+risteys:M13_SJOGREN	https://r13.risteys.finngen.fi/endpoints/M13_SJOGREN			4890	2026-09-29 18:59:40.398928
+risteys:PAIN	https://r13.risteys.finngen.fi/endpoints/PAIN			4890	2026-09-29 18:59:57.093561
+risteys:RHEUMA_NOS	https://r13.risteys.finngen.fi/endpoints/RHEUMA_NOS			4890	2026-09-29 19:00:10.663481
+risteys:RHEUMA_OTHER_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_OTHER_WIDE			4890	2026-09-29 19:00:29.880035
+PanUKBB:phenotype_manifest	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_release/phenotype_manifest.tsv.bgz	58343c50b06be5cee7a56a1d1a38c30065aa4321a8d8e6b3471d971e0a5b812c	1420758	7223	2026-09-29 19:00:31.370604
+risteys:RHEUMA_SERONEG	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG			4890	2026-09-29 19:01:02.751584
+risteys:RHEUMA_SEROPOS_STRICT	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_STRICT			4890	2026-09-29 19:01:19.916578
+risteys:RHEUMA_SEROPOS_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_WIDE			4890	2026-09-29 19:01:35.966591
+risteys:SLE_FG	https://r13.risteys.finngen.fi/endpoints/SLE_FG			4890	2026-09-29 19:01:53.885854
+risteys:SPONDYLOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/SPONDYLOARTHRITIS			4890	2026-09-29 19:02:09.195495
+PASS:BMI1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_BMI1.sumstats	ce9a1fcd0ed43fc225757f08231845bcee3ac611c805f6e12ee801144a08ee3b	54125230	1026920	2026-09-29 19:07:57.557273
+PASS:Height1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Height1.sumstats	efde30273e918b5b2e921b14d0c84b04dd7c30afdb2608c7832a5462556d75ac	53809525	1025715	2026-09-29 19:14:33.029258
+PanUKBB:ICD_M07	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M07-both_sexes.tsv.bgz			14589	2026-09-29 19:14:56.106109
+PanUKBB:ICD_M10	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M10-both_sexes.tsv.bgz			15185	2026-09-29 19:15:19.081856
+PanUKBB:ICD_M16	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M16-both_sexes.tsv.bgz			15466	2026-09-29 19:15:28.075378
+PanUKBB:ICD_M05	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M05-both_sexes.tsv.bgz			14589	2026-09-29 19:15:39.469055
+PanUKBB:ICD_M06	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M06-both_sexes.tsv.bgz			15451	2026-09-29 19:15:54.831466
+PanUKBB:ICD_M17	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M17-both_sexes.tsv.bgz			15477	2026-09-29 19:15:55.689504
+PanUKBB:ICD_M15	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M15-both_sexes.tsv.bgz			15452	2026-09-29 19:16:24.819807
+PanUKBB:ICD_M13	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M13-both_sexes.tsv.bgz			15453	2026-09-29 19:16:30.095321
+PASS:Years_of_Education1	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Years_of_Education1.sumstats	9d91e97316dbb56bcffaa0cd8ec7c0be687349f52b4ecd337f9175d33f1da9dd	53070836	1008528	2026-09-29 19:21:43.57174
+risteys:CHONDRO_OTH	https://r13.risteys.finngen.fi/endpoints/CHONDRO_OTH			4890	2026-09-29 19:27:04.308254
+risteys:E4_HYTHY_AI_STRICT	https://r13.risteys.finngen.fi/endpoints/E4_HYTHY_AI_STRICT			4890	2026-09-29 19:28:06.786323
+risteys:G6_MS	https://r13.risteys.finngen.fi/endpoints/G6_MS			4890	2026-09-29 19:28:33.714035
+risteys:H7_IRIDOCYC_ANTER	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYC_ANTER			4890	2026-09-29 19:29:23.417222
+risteys:JOINTPAIN	https://r13.risteys.finngen.fi/endpoints/JOINTPAIN			4890	2026-09-29 19:30:28.425439
+PASS:LDL	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_LDL.sumstats	e265d1119983e5c948f229f93203871b0303e8cbfd56b9c85e36ad46bf98fe4f	52670644	1017973	2026-09-29 19:30:39.972793
+risteys:JUVEN_ARTHR	https://r13.risteys.finngen.fi/endpoints/JUVEN_ARTHR			4890	2026-09-29 19:30:52.76511
+risteys:K11_COELIAC	https://r13.risteys.finngen.fi/endpoints/K11_COELIAC			4890	2026-09-29 19:31:35.229178
+risteys:K11_IBD_STRICT	https://r13.risteys.finngen.fi/endpoints/K11_IBD_STRICT			4890	2026-09-29 19:32:03.684143
+risteys:L12_PSORIASIS	https://r13.risteys.finngen.fi/endpoints/L12_PSORIASIS			4890	2026-09-29 19:32:43.003439
+risteys:M13_ANKYLOSPON	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON			4890	2026-09-29 19:33:14.708486
+PanUKBB:ICD_M35	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M35-both_sexes.tsv.bgz			15185	2026-09-29 19:33:37.61894
+PanUKBB:ICD_M46	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M46-both_sexes.tsv.bgz			14589	2026-09-29 19:33:47.977254
+PanUKBB:ICD_H20	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-H20-both_sexes.tsv.bgz			14589	2026-09-29 19:33:55.567346
+risteys:M13_ARTHROSIS	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS			4890	2026-09-29 19:34:34.327295
+PanUKBB:ICD_M19	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M19-both_sexes.tsv.bgz			15453	2026-09-29 19:34:38.782184
+PanUKBB:ICD_M79	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M79-both_sexes.tsv.bgz			15450	2026-09-29 19:34:45.445021
+PanUKBB:ICD_L40	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-L40-both_sexes.tsv.bgz			15185	2026-09-29 19:34:59.483016
+PanUKBB:ICD_M31	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/icd10-M31-both_sexes.tsv.bgz			14589	2026-09-29 19:35:01.076479
+risteys:M13_ARTHROSIS_KNEE	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_KNEE			4890	2026-09-29 19:35:02.875371
+PanUKBB:PHE_714.1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-714.1-both_sexes.tsv.bgz			15452	2026-09-29 19:35:48.018097
+risteys:M13_ARTHROSIS_POLY	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_POLY			4890	2026-09-29 19:35:52.526536
+risteys:M13_ARTHTROSIS_COX	https://r13.risteys.finngen.fi/endpoints/M13_ARTHTROSIS_COX			4890	2026-09-29 19:36:23.231511
+risteys:M13_FIBROMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_FIBROMYALGIA			4890	2026-09-29 19:36:47.004617
+risteys:M13_GIANTCELL	https://r13.risteys.finngen.fi/endpoints/M13_GIANTCELL			4890	2026-09-29 19:37:06.922308
+PASS:HDL	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_HDL.sumstats	6d437b37243c099534f2dec260cef26b0283ed0edc2ad1ab5b8ad2d64d68989a	52736154	1019272	2026-09-29 19:37:27.768547
+risteys:M13_GOUT	https://r13.risteys.finngen.fi/endpoints/M13_GOUT			4890	2026-09-29 19:37:29.100992
+risteys:M13_MONOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_MONOARTHRITIS			4890	2026-09-29 19:37:47.538777
+risteys:M13_PALINDROMIC	https://r13.risteys.finngen.fi/endpoints/M13_PALINDROMIC			4890	2026-09-29 19:38:04.613666
+risteys:M13_POLYARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_POLYARTHRITIS			4890	2026-09-29 19:38:22.400697
+risteys:M13_POLYMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_POLYMYALGIA			4890	2026-09-29 19:38:42.955782
+risteys:M13_PSORIARTH	https://r13.risteys.finngen.fi/endpoints/M13_PSORIARTH			4890	2026-09-29 19:39:09.84153
+risteys:M13_RHEUMA	https://r13.risteys.finngen.fi/endpoints/M13_RHEUMA			4890	2026-09-29 19:39:49.439922
+risteys:M13_SJOGREN	https://r13.risteys.finngen.fi/endpoints/M13_SJOGREN			4890	2026-09-29 19:40:08.680067
+FinnGen_R13:RHEUMA_NOS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_RHEUMA_NOS.gz	505b9a734657682a5c811722136d7beb9c662a16cc6022d59e5e71a0f2e29f35	802864455	14631401	2026-09-29 19:40:40.253292
+risteys:PAIN	https://r13.risteys.finngen.fi/endpoints/PAIN			4890	2026-09-29 19:40:44.363874
+risteys:RHEUMA_NOS	https://r13.risteys.finngen.fi/endpoints/RHEUMA_NOS			4890	2026-09-29 19:41:25.154311
+risteys:RHEUMA_OTHER_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_OTHER_WIDE			4890	2026-09-29 19:42:12.870223
+risteys:RHEUMA_SERONEG	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG			4890	2026-09-29 19:42:45.854413
+risteys:RHEUMA_SEROPOS_STRICT	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_STRICT			4890	2026-09-29 19:43:10.187289
+PASS:Triglycerides	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Triglycerides.sumstats	855cd3e970f61fcf61266e1f2075d373206d95162cd7c1e87dfd54ae2beb9a3d	52665975	1017798	2026-09-29 19:43:23.552755
+risteys:RHEUMA_SEROPOS_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_WIDE			4890	2026-09-29 19:44:15.547917
+risteys:SLE_FG	https://r13.risteys.finngen.fi/endpoints/SLE_FG			4890	2026-09-29 19:44:40.509643
+risteys:SPONDYLOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/SPONDYLOARTHRITIS			4890	2026-09-29 19:45:27.651565
+FinnGen_R13:M13_POLYARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_POLYARTHRITIS.gz	ef76c7cac77ef4c4532644e7dad3a65af36ba14b60f82b40a3e80cec88d8e89f	794650363	14642796	2026-09-29 19:48:37.144734
+PanUKBB:PHE_715.2	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-715.2-both_sexes.tsv.bgz			14589	2026-09-29 19:49:27.320321
+PanUKBB:PHE_717	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-717-both_sexes.tsv.bgz			14589	2026-09-29 19:52:23.725432
+GWASCatalog:GCST90319906	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90319001-GCST90320000/GCST90319906/harmonised/GCST90319906.h.tsv.gz	d9e0279124ded3bd645222a5432600e2dbf39546a40cadbbd8cd96569378ea26	290936585	1143780	2026-09-29 19:52:27.619691
+PanUKBB:PHE_696.42	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-696.42-both_sexes.tsv.bgz			14589	2026-09-29 19:54:11.74811
+PanUKBB:PHE_716	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-716-both_sexes.tsv.bgz			15480	2026-09-29 19:56:33.445254
+PASS:Fasting_Glucose	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Fasting_Glucose.sumstats	0e910cb8eec1be81aba7cbd5a7990ec724a2085371af4232c8185bc9f9bad3e6	57682094	1115624	2026-09-29 19:56:51.381536
+PanUKBB:PHE_274.1	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-274.1-both_sexes.tsv.bgz			15451	2026-09-29 19:57:58.027043
+PASS:Type_2_Diabetes	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Type_2_Diabetes.sumstats	60fe50c0a2b2befaaac83f7183dc79656efe3a9c5788a93c4a9009f0cf6fa0f6	38117993	968509	2026-09-29 19:58:26.03324
+PanUKBB:PHE_740	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-740-both_sexes.tsv.bgz			15480	2026-09-29 20:00:46.893611
+PASS:Coronary_Artery_Disease	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Coronary_Artery_Disease.sumstats	da3c4b6ad37f378626c74279303dd79104f7c340061beb15657007f6aee99bd1	53267643	925223	2026-09-29 20:01:01.7447
+PanUKBB:PHE_446.5	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/phecode-446.5-both_sexes.tsv.bgz			14589	2026-09-29 20:02:44.53487
+PanUKBB:phenotype_manifest	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_release/phenotype_manifest.tsv.bgz	58343c50b06be5cee7a56a1d1a38c30065aa4321a8d8e6b3471d971e0a5b812c	1420758	7223	2026-09-29 20:06:23.044176
+PASS:Ever_Smoked	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Ever_Smoked.sumstats	e04d1dd0037c0b35aecd7e0042620dbff24b0462002bb6aac8d531d20ad28067	54809110	1060317	2026-09-29 20:08:13.721252
+PASS:Neuroticism	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Neuroticism.sumstats	6a21d8e140c3340cf0c99d894b1deebf229025d955411ddef2d887ffa1f48ba3	45063084	1115393	2026-09-29 20:11:06.486787
+FinnGen_R13:M13_MONOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_MONOARTHRITIS.gz	556b5876b290e8abcc01c5d2014b291813ff265798f9a05bb894083c57bdb760	796635816	14642346	2026-09-29 20:12:00.758193
+FinnGen_R13:JUVEN_ARTHR	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_JUVEN_ARTHR.gz	88636718b450934e340bca06e15104a20dd523022d817cbcf8b429bf26034bd3	793278752	14635922	2026-09-29 20:12:09.713737
+PASS:DS	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_DS.sumstats	d922aebd8971e790522bfd025e32fe0ad993400e2ed48301974fcb4085a77423	45056285	1115393	2026-09-29 20:15:04.396939
+risteys:CHONDRO_OTH	https://r13.risteys.finngen.fi/endpoints/CHONDRO_OTH			40	2026-09-29 20:16:21.882593
+GWASCatalog:GCST90476230	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476230/harmonised/GCST90476230.h.tsv.gz			140	2026-09-29 20:17:20.954654
+risteys:E4_HYTHY_AI_STRICT	https://r13.risteys.finngen.fi/endpoints/E4_HYTHY_AI_STRICT			40	2026-09-29 20:17:25.469301
+risteys:G6_MS	https://r13.risteys.finngen.fi/endpoints/G6_MS			40	2026-09-29 20:17:49.852725
+risteys:H7_IRIDOCYC_ANTER	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYC_ANTER			40	2026-09-29 20:18:21.128857
+GWASCatalog:GCST90478872	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90478001-GCST90479000/GCST90478872/harmonised/GCST90478872.h.tsv.gz			136	2026-09-29 20:18:21.387831
+PASS:SWB	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_SWB.sumstats	91b97a8b686ecff7d641acaadcc4d8d002567aef03f4586c5456df96be215723	19329722	477899	2026-09-29 20:18:40.550958
+risteys:JOINTPAIN	https://r13.risteys.finngen.fi/endpoints/JOINTPAIN			40	2026-09-29 20:19:13.877846
+GWASCatalog:GCST90476232	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476232/harmonised/GCST90476232.h.tsv.gz			1	2026-09-29 20:19:27.446472
+risteys:JUVEN_ARTHR	https://r13.risteys.finngen.fi/endpoints/JUVEN_ARTHR			40	2026-09-29 20:19:37.303005
+risteys:K11_COELIAC	https://r13.risteys.finngen.fi/endpoints/K11_COELIAC			40	2026-09-29 20:19:57.728324
+risteys:K11_IBD_STRICT	https://r13.risteys.finngen.fi/endpoints/K11_IBD_STRICT			40	2026-09-29 20:20:28.705747
+risteys:L12_PSORIASIS	https://r13.risteys.finngen.fi/endpoints/L12_PSORIASIS			40	2026-09-29 20:21:21.959568
+risteys:M13_ANKYLOSPON	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON			40	2026-09-29 20:21:46.609495
+risteys:M13_ARTHROSIS	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS			40	2026-09-29 20:22:15.055145
+risteys:M13_ARTHROSIS_KNEE	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_KNEE			40	2026-09-29 20:22:41.618159
+GWASCatalog:GCST90029070	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90029001-GCST90030000/GCST90029070/harmonised/35459240-GCST90029070-EFO_0004458.h.tsv.gz	e361ec3fca5134a72e81268018602db53ea4d9763b46ef8dc7b327286a721797	284933312	1181097	2026-09-29 20:23:03.27382
+risteys:M13_ARTHROSIS_POLY	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_POLY			40	2026-09-29 20:23:19.352256
+risteys:M13_ARTHTROSIS_COX	https://r13.risteys.finngen.fi/endpoints/M13_ARTHTROSIS_COX			40	2026-09-29 20:24:01.72526
+PanUKBB:SR_RA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1464.tsv.bgz			15451	2026-09-29 20:24:24.441402
+PASS:Schizophrenia	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Schizophrenia.sumstats	77afc022a9053149f2a818250394f1eb36c64e8977626bd6b1b20cb7dc1bd513	55730612	1083014	2026-09-29 20:24:25.288343
+risteys:M13_FIBROMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_FIBROMYALGIA			40	2026-09-29 20:24:49.166218
+risteys:M13_GIANTCELL	https://r13.risteys.finngen.fi/endpoints/M13_GIANTCELL			40	2026-09-29 20:25:05.463111
+PanUKBB:SR_AS	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1313.tsv.bgz			14589	2026-09-29 20:25:05.874555
+PanUKBB:SR_OA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1465.tsv.bgz			15477	2026-09-29 20:25:18.959514
+PanUKBB:SR_PSA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1477.tsv.bgz			14589	2026-09-29 20:25:41.433145
+risteys:M13_GOUT	https://r13.risteys.finngen.fi/endpoints/M13_GOUT			40	2026-09-29 20:25:49.215742
+risteys:M13_MONOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_MONOARTHRITIS			40	2026-09-29 20:26:10.401314
+risteys:M13_PALINDROMIC	https://r13.risteys.finngen.fi/endpoints/M13_PALINDROMIC			40	2026-09-29 20:26:21.760285
+PanUKBB:SR_GOUT	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1466.tsv.bgz			15187	2026-09-29 20:26:32.435935
+risteys:M13_POLYARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_POLYARTHRITIS			40	2026-09-29 20:26:36.949554
+risteys:M13_POLYMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_POLYMYALGIA			40	2026-09-29 20:26:50.368329
+GWASCatalog:GCST90476229	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476229/harmonised/GCST90476229.h.tsv.gz			136	2026-09-29 20:26:50.536373
+risteys:M13_PSORIARTH	https://r13.risteys.finngen.fi/endpoints/M13_PSORIARTH			40	2026-09-29 20:27:35.796835
+PASS:Bipolar_Disorder	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Bipolar_Disorder.sumstats	98ef98e7db07c3796726bde31b5907bd4dd68de8e440b1e73d7fad67ba51d69d	38756281	750635	2026-09-29 20:27:47.284592
+risteys:M13_RHEUMA	https://r13.risteys.finngen.fi/endpoints/M13_RHEUMA			40	2026-09-29 20:53:43.022366
+risteys:M13_SJOGREN	https://r13.risteys.finngen.fi/endpoints/M13_SJOGREN			40	2026-09-29 20:54:20.453292
+GWASCatalog:GCST006979	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST006001-GCST007000/GCST006979/harmonised/30598549-GCST006979-EFO_0009270.h.tsv.gz	ca258ccd412587aef8a48d8aae4e0c306263932e40cbd66be43d19fba9876a93	675331022	1163223	2026-09-29 20:54:30.913166
+risteys:PAIN	https://r13.risteys.finngen.fi/endpoints/PAIN			40	2026-09-29 20:55:28.107157
+GWASCatalog:GCST004131	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST004001-GCST005000/GCST004131/harmonised/28067908-GCST004131-EFO_0003767.h.tsv.gz	45298e9ddc7ed8272c8a150cd49e523dea0b9e821641ee662aadce797789b67e	302407129	1157798	2026-09-29 20:55:37.093443
+risteys:RHEUMA_NOS	https://r13.risteys.finngen.fi/endpoints/RHEUMA_NOS			40	2026-09-29 20:56:01.264605
+risteys:RHEUMA_OTHER_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_OTHER_WIDE			40	2026-09-29 20:56:40.95197
+risteys:RHEUMA_SERONEG	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG			40	2026-09-29 20:57:15.182941
+risteys:RHEUMA_SEROPOS_STRICT	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_STRICT			40	2026-09-29 20:57:39.430385
+risteys:RHEUMA_SEROPOS_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_WIDE			40	2026-09-29 20:58:06.028788
+FinnGen_R13:M13_RHEUMA	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_RHEUMA.gz	842b735ddc899636ca3727ec967cedf3dcf88c53c9d323e6c991ebdbd3b9adb8	805236419	14639772	2026-09-29 20:58:15.630195
+FinnGen_R13:SPONDYLOARTHRITIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SPONDYLOARTHRITIS.gz	3c785cc94838a5acafa7bb4b2128abe5d5d2f5d87e672ad56f157fda71ec2e86	804280365	14630573	2026-09-29 20:58:30.79981
+risteys:SLE_FG	https://r13.risteys.finngen.fi/endpoints/SLE_FG			40	2026-09-29 20:58:58.662615
+risteys:SPONDYLOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/SPONDYLOARTHRITIS			40	2026-09-29 20:59:47.37527
+PASS:Crohns_Disease	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Crohns_Disease.sumstats	6572886c8f2ce74a83028f0f7f0406c14a887929e9a3d8c7afd498a43018b6b6	54308927	1051514	2026-09-29 21:00:48.942311
+PASS:Ulcerative_Colitis	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Ulcerative_Colitis.sumstats	dc52b15f02fce55ba40dfbd5c81adcef62129124d807ac383cc8da44d6a98dcc	55630187	1076834	2026-09-29 21:07:53.200359
+PASS:Celiac	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Celiac.sumstats	827870f85e7de5e733d5064b4458acf9c39e0e470324413dbfd950f23958c3a0	19340808	490804	2026-09-29 21:08:00.630857
+PASS:Lupus	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Lupus.sumstats	eb88d6ac854d9360092ccc6f73e40b42e649b23d377cbdb207411ef9e6271357	45837449	1163809	2026-09-29 21:08:12.317049
+PASS:Multiple_sclerosis	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Multiple_sclerosis.sumstats	ba9a1b3d24f707b74e25b14df7197362abeae41f2753a076a4225d6c3898e5a4	17734215	450159	2026-09-29 21:08:20.35376
+PASS:Primary_biliary_cirrhosis	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Primary_biliary_cirrhosis.sumstats	f42166821a8899726fb970496c2e09d367f3c5f008e11be0d1ef9c106a60594b	40167183	1018862	2026-09-29 21:08:38.425425
+PASS:Rheumatoid_Arthritis	https://broad-alkesgroup-public.storage.googleapis.com/sumstats_formatted/PASS_Rheumatoid_Arthritis.sumstats	1b4927d24e3737301f4c1f0e99a77bf2ee62278797f706a44cbeaced579c91a9	44382680	1125155	2026-09-29 21:08:48.957748
+FinnGen_R13:H7_IRIDOCYC_ANTER	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_H7_IRIDOCYC_ANTER.gz	a9b86a8880f290164b8dc6c54d47991e77b35bd3d5250433f879d914310279b9	804246263	14631356	2026-09-29 21:10:42.912419
+FinnGen_R13:M13_GIANTCELL	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_GIANTCELL.gz	b76b47f329767de27a0011114cfa65660e6b70cdc8b95a6448b62e3c62517549	794972801	14631199	2026-09-29 21:11:03.404076
+FinnGen_R13:M13_ARTHROSIS_POLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS_POLY.gz	baf4e12a75998c0eaa8ea33388d901edf40befd3f5c58b4272643ba9932a8ab4	804503680	14641211	2026-09-29 21:11:27.243361
+PanUKBB:phenotype_manifest	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_release/phenotype_manifest.tsv.bgz	58343c50b06be5cee7a56a1d1a38c30065aa4321a8d8e6b3471d971e0a5b812c	1420758	7223	2026-09-29 21:12:20.991404
+PanUKBB:SR_PSA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1477.tsv.bgz			14589	2026-09-29 21:15:21.71184
+PanUKBB:SR_PMR	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1377.tsv.bgz			14589	2026-09-29 21:15:27.421283
+PanUKBB:SR_AS	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1313.tsv.bgz			14589	2026-09-29 21:15:27.711951
+FinnGen_R13:M13_ARTHTROSIS_COX	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHTROSIS_COX.gz	ae1f857cd430906c2e5a561a62ae556da6a5fdc862b8eb7b7d5659d6cf9d1342	807976992	14643950	2026-09-29 21:15:41.905384
+FinnGen_R13:M13_ARTHROSIS_KNEE	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_ARTHROSIS_KNEE.gz	b11eac0705520d8a6e0db040107a7dad683c42e3f981de0a8a6b9282263adb6a	809644048	14637424	2026-09-29 21:15:43.565479
+GWASCatalog:GCST90478870	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90478001-GCST90479000/GCST90478870/harmonised/GCST90478870.h.tsv.gz			137	2026-09-29 21:15:48.639877
+PanUKBB:SR_GOUT	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1466.tsv.bgz			15187	2026-09-29 21:15:50.924171
+FinnGen_R13:L12_PSORIASIS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_L12_PSORIASIS.gz	113066e4bbe38fb038c40ec1086fcf84a11270917eac0bbb736b26c05f133f85	805114374	14631730	2026-09-29 21:16:03.74324
+PanUKBB:SR_RA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1464.tsv.bgz			15451	2026-09-29 21:16:17.213049
+PanUKBB:SR_OA	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1465.tsv.bgz			15477	2026-09-29 21:16:31.428662
+FinnGen_R13:JOINTPAIN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_JOINTPAIN.gz	19a6294ff702385883ec4e43b079d955047983d22d02b06d16e1c4a5fb06bbc0	808298639	14640430	2026-09-29 21:16:45.47744
+FinnGen_R13:M13_PALINDROMIC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_PALINDROMIC.gz	1ea824d61d52bc8a836591562464d53417d92c75bbbb53bea8fc1bf17ead5170	777170733	14642867	2026-09-29 21:16:47.123206
+FinnGen_R13:K11_IBD_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_IBD_STRICT.gz	e26fd1ca270c5a420c26f5a0dc090ef1616d2eaee570b9b079451950e3c66675	804516349	14631356	2026-09-29 21:16:48.062266
+FinnGen_R13:M13_SJOGREN	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_M13_SJOGREN.gz	20d7be3e0557716b4499cde22983ef900a1e7e9f010ab92b2316965f9853aa85	801016858	14631136	2026-09-29 21:17:39.144105
+FinnGen_R13:CHONDRO_OTH	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_CHONDRO_OTH.gz	e947c626af5a12fab1b81e6661a806cad263fc4a9d8dfa767102239523b5de89	778579988	14631410	2026-09-29 21:17:48.944702
+FinnGen_R13:E4_HYTHY_AI_STRICT	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_E4_HYTHY_AI_STRICT.gz	2d40ab23a9b2daeefbaba43e779d7db4f37669cc309e0dad013aaad51275155f	809391850	14630933	2026-09-29 21:18:15.056161
+FinnGen_R13:SLE_FG	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_SLE_FG.gz	eb89a76bcda278e79fa724deb04d541975152cb4baae8c9d7273999e0ccaad37	794637047	14635229	2026-09-29 21:18:40.30492
+FinnGen_R13:T1D_EARLY	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_T1D_EARLY.gz	240b0562f6a234cb1917f018ac4bb9bf0cfad13ab9ea01f0c7e9915309dce13f	798921187	14631356	2026-09-29 21:18:51.004302
+FinnGen_R13:K11_COELIAC	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_K11_COELIAC.gz	36fdfa13db8413d2f8ab59d8e9b84b4fd32667d079901d2a85b6ef6b91a40121	803132017	14631107	2026-09-29 21:18:59.541884
+FinnGen_R13:G6_MS	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_G6_MS.gz	095abe8fa4ec79dfd7365f7cf31db232a456966ae044781bcb88e3f7028832d5	800865392	14631266	2026-09-29 21:19:40.302858
+PanUKBB:SR_FIBRO	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1542.tsv.bgz			14589	2026-09-29 21:22:02.177531
+PanUKBB:SR_ARTHRITIS_NOS	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1538.tsv.bgz			15451	2026-09-29 21:22:44.370941
+PanUKBB:SR_SPINE_ARTHRITIS	https://pan-ukb-us-east-1.s3.amazonaws.com/sumstats_flat_files/categorical-20002-both_sexes-1311.tsv.bgz			14589	2026-09-29 21:22:46.121145
+EstBB:pheweb_api	https://pheweb.gi.ut.ee			46127	2026-09-29 21:26:25.004506
+NBDC:hum0197:BBJ_RA	https://humandbs.dbcls.jp/files/hum0197/hum0197.v3.BBJ.RA.v1.zip	47b8fd14d0c4058542d0bc2f5ff79c3dda24a91836eecf66e6ce70e3968a65d4	1605054301	13436073	2026-09-29 21:28:42.652406
+GWASCatalog:GCST90476231	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90476001-GCST90477000/GCST90476231/GCST90476231.tsv.gz	f1c7a31905b9a4633b92c97942098f4d8825bed74e4810094d8ee3aa7f8bdab3	592970465	19708251	2026-09-29 21:32:51.340724
+GWASCatalog:GCST90478871	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90478001-GCST90479000/GCST90478871/GCST90478871.tsv.gz	d97108d7dddffb10a395a9e7ad301f32723d8536bc00149a4715417c8df6aeb3	855610516	27867029	2026-09-29 22:04:45.026073
+risteys:CHONDRO_OTH	https://r13.risteys.finngen.fi/endpoints/CHONDRO_OTH	ad4a26414f2c67750e16d59d130a6adbe52d65db615a108fe46402497065517f	719329	210	2026-09-30 09:03:38.208303
+risteys:G6_MS	https://r13.risteys.finngen.fi/endpoints/G6_MS	12d38307e39c1ae0484abf723f37cc07adc47a12204ebbc553419f60e8364a90	1263251	525	2026-09-30 09:04:53.691311
+risteys:H7_IRIDOCYCLITIS	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYCLITIS	c3a44f50d1f42e678bb6ce19728088865b9ed988f85d3a9fca35d6d768745b02	2086486	1507	2026-09-30 09:05:32.869326
+risteys:H7_IRIDOCYC_ANTER	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYC_ANTER	928decbc8bb07fe71d1e9383b4fa07911977099f118b27faca7dfdd697696b55	1898732	1249	2026-09-30 09:06:15.12572
+risteys:JUVEN_ARTHR	https://r13.risteys.finngen.fi/endpoints/JUVEN_ARTHR	96a2d1ae05baa904b7fc0e59ff551e61096872d99b1d4f3821c9f3e8e5e1923c	1625718	1240	2026-09-30 09:06:25.697852
+risteys:K11_COELIAC	https://r13.risteys.finngen.fi/endpoints/K11_COELIAC	f0a23528cd7092051d9cc98c1f4102445f10e373db9ba6615c947f4f540f75df	1461253	667	2026-09-30 09:06:36.350209
+risteys:K11_IBD_STRICT	https://r13.risteys.finngen.fi/endpoints/K11_IBD_STRICT	72f335a1435cb4f85b8d019b0a37aa8d7681f60be5d508d2357c07b59ffc31a7	1823107	1071	2026-09-30 09:08:16.64978
+risteys:K11_ULCER	https://r13.risteys.finngen.fi/endpoints/K11_ULCER	9c2d0a9dcd2037bb51bb2bbdceb8721130a6262e1ca1121bf53003e1a9f184b6	2007086	1412	2026-09-30 09:08:26.911346
+risteys:K11_CROHN	https://r13.risteys.finngen.fi/endpoints/K11_CROHN	2017431897ec43e9e6c4502cf3fc23fb97f12b7b325064f77d195981b2027b43	1863568	1356	2026-09-30 09:08:33.536139
+risteys:M13_ANKYLOSPON_STRICT	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON_STRICT	5191c81af18cf77d19ef14a2581aca2016d168e08d0066ab03c3f02f4d97110a	1107724	448	2026-09-30 09:09:44.566821
+risteys:L12_PSORIASIS	https://r13.risteys.finngen.fi/endpoints/L12_PSORIASIS	445d118412d0bb8a32df8cbed7eed40752fc5ab3f66b272fbb39ec5c726b3975	2177185	1619	2026-09-30 09:10:03.869842
+risteys:M13_ANKYLOSPON	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON	bfe65bd3da95c4c695d0c80a351f04225cee61bff12a1843368ae450a8074b54	1855680	1480	2026-09-30 09:11:20.44981
+risteys:E4_HYTHY_AI_STRICT	https://r13.risteys.finngen.fi/endpoints/E4_HYTHY_AI_STRICT	34f44acf44ac42af70f6892443ad61dc862782a513640e6063ccf01fe0dc77cd	3800646	4047	2026-09-30 09:12:28.802088
+risteys:M13_ARTHROSIS_KNEE	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_KNEE	20e52a3ca626ddce6706e2d13fd4527268521bab941db6c9c9e3b82146b3cb17	4046117	4530	2026-09-30 09:14:22.843965
+risteys:M13_ARTHROSIS_POLY	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_POLY	4b2bbc886d92a952bf1cccc0545fe4ca72f2867f42999ecd70cc289b65dc9f6f	3082985	3337	2026-09-30 09:14:56.068572
+risteys:M13_ARTHTROSIS_COX	https://r13.risteys.finngen.fi/endpoints/M13_ARTHTROSIS_COX	d5ffa476c0770433758c3da56225d609681543e62a4726455cb3a1641c31dc83	3583638	3873	2026-09-30 09:16:26.191426
+risteys:M13_GIANTCELL	https://r13.risteys.finngen.fi/endpoints/M13_GIANTCELL	ad35eb86923b6ee44b4bec03e08a6bdc9353c92d71e7c2a604a48e5071b0f9c7	1114823	500	2026-09-30 09:16:50.178919
+risteys:M13_FIBROMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_FIBROMYALGIA	355e25d698acea59747636533c5feedc3f024cc71a14310ee0fa554bc49dc860	2911097	3185	2026-09-30 09:17:18.084028
+risteys:M13_ARTHROSIS_OTH	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS_OTH	d02d09868c7e1d531026328e87298c8d847a63bdc2d2345ccb5c7d8740e9541e	4328640	5051	2026-09-30 09:18:30.466184
+risteys:M13_MONOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_MONOARTHRITIS	511261048ff92078ae87019bb728309c215c1f2327515bc81683ac282798aa62	1321402	834	2026-09-30 09:18:33.18465
+risteys:M13_PALINDROMIC	https://r13.risteys.finngen.fi/endpoints/M13_PALINDROMIC	036aaaa351de14177936390baa27eb6adc0ba240f56a01985e124d043428041a	690877	263	2026-09-30 09:19:18.217022
+risteys:M13_GOUT	https://r13.risteys.finngen.fi/endpoints/M13_GOUT	f55c7e2a1d8789d55c1a466b47fef49599bae0180354cc36abe146da5957deb7	3406065	3723	2026-09-30 09:19:26.070881
+risteys:M13_POLYARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_POLYARTHRITIS	c025bf5078d6b6292c36670a24d26d7609666079cd8f81445b5eae22fc4474ad	1315604	813	2026-09-30 09:19:56.833147
+pubmed:esummary	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=36653562,33575586,37220626,25642630,26414676,30962613,26050253,27061298,18310059,30374074,24656864,27182969,29998832,33175968,2			36	2026-09-30 09:20:37.052442
+risteys:M13_POLYMYALGIA	https://r13.risteys.finngen.fi/endpoints/M13_POLYMYALGIA	0f7ea6ab5deeab099e572da27bba2ae210893d8e02d2224eb3b8b154a3d26044	1647243	1090	2026-09-30 09:21:08.676247
+risteys:M13_PSORIARTH	https://r13.risteys.finngen.fi/endpoints/M13_PSORIARTH	c2cd00cc2f3db2f237787b21335c4716581d6b7b9b74d1c5f411963ecbd5287f	2053298	1772	2026-09-30 09:21:29.108991
+risteys:M13_ARTHROSIS	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS	f679b10a81b678c5c4f4d4e11a2c0874b6a8d2143639dca7a2f9e0f7dd204c2a	4219995	4773	2026-09-30 09:22:20.914326
+risteys:M13_SACROILIITIS	https://r13.risteys.finngen.fi/endpoints/M13_SACROILIITIS	58159e78df3c5818d69db7e8cba9115c7b4e5e8538a6844c7352a52f90e7c22d	1362051	871	2026-09-30 09:22:32.274383
+risteys:M13_RHEUMA	https://r13.risteys.finngen.fi/endpoints/M13_RHEUMA	20e3cbb5a4fec8411646b80bde72fda22e9adec0f26bb2031ff22a7d2ef66a29	3263824	3369	2026-09-30 09:23:44.514423
+risteys:RHEUMA_ARHTROPAT_REACTIVE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_ARHTROPAT_REACTIVE	7a0c9d25c8836aebf4cca70d7220f672692badd8217aa81c8074eec26ee590c6	1537869	963	2026-09-30 09:24:23.905183
+risteys:M13_SJOGREN	https://r13.risteys.finngen.fi/endpoints/M13_SJOGREN	e487d813fe14614fdf466b0b5b9a62d01bf39acf7614c6f0b97f25259a82eff3	1907608	1545	2026-09-30 09:24:39.347157
+risteys:RHEUMA_SERONEG	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG	af5b4d3a245b6ca66a3192517a05d1e36ef00869a3b4da63800b2c371d364173	2073104	1740	2026-09-30 09:26:01.003783
+risteys:RHEUMA_NOS	https://r13.risteys.finngen.fi/endpoints/RHEUMA_NOS	0a4898a33575bfebef6ec17f06f5da003dd4f01aa8891685ead74dd10f5414e7	1893131	1443	2026-09-30 09:26:18.379186
+risteys:PAIN	https://r13.risteys.finngen.fi/endpoints/PAIN	6f14ce7c9e48c3011d490273e6f41de5a08395fd7461962611bbdb9668684055	4803197	5742	2026-09-30 09:27:16.739018
+risteys:RHEUMA_OTHER_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_OTHER_WIDE	20ada33dcda470bbdcd790b3b0a7a5d637c2fcdc1309e39fc43843783bae7407	2117972	1634	2026-09-30 09:27:18.698229
+risteys:RHEUMA_SEROPOS_STRICT	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_STRICT	0915fb1551b12b82a2b774e48157e9135d8c50b017ef5205d9fde9ec3476d03a	1603655	870	2026-09-30 09:27:47.333203
+risteys:RHEUMA_SEROPOS_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_WIDE	011be382040c01367a55f50c121580d684553d52091c9735f12f478ecfcef41a	2241558	1726	2026-09-30 09:28:29.135533
+risteys:SLE_FG	https://r13.risteys.finngen.fi/endpoints/SLE_FG	84014d79d9132df40b1ebad369adeda700512c29457a50fef739d9460bc57493	1473681	1057	2026-09-30 09:28:36.077039
+risteys:SPONDYLOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/SPONDYLOARTHRITIS	d89b33db6725d960dd11f91ea2a312da624f494b58e45583632aea014edbe133	2264705	1913	2026-09-30 09:29:05.412511
+risteys:JOINTPAIN	https://r13.risteys.finngen.fi/endpoints/JOINTPAIN	79d6bf148dd1412998db728d215cd1409597831b6209d5ee4de6987c0f6afeda	5343027	6690	2026-09-30 09:29:06.100582
+risteys:T1D_EARLY	https://r13.risteys.finngen.fi/endpoints/T1D_EARLY	29ab35f6ab35aa14e32a7d5873a686ef9fbb71216ad02f2d77bc966d7d2370b5	1279978	678	2026-09-30 09:29:30.314696
+risteys:M13_OTHERJOINT	https://r13.risteys.finngen.fi/endpoints/M13_OTHERJOINT	558130f022162f0f93f8d634a38e1ee0263d41f47ed3f382b1674a33f11c6781	4610044	5370	2026-09-30 09:30:55.679213
+pubmed:esummary	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=25498119,22258521,27998952,21109520			4	2026-09-30 09:47:43.754716
+risteys:M13_RHEUMA	https://r13.risteys.finngen.fi/endpoints/M13_RHEUMA	8d5e2635f9b28482b4ddc369609f03f723a183df925b9cd72cf48cdeca11c655	3263824	1	2026-09-30 09:54:01.387979
+pubmed:esummary	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=json&id=30538575,25797539,25510838			3	2026-09-30 09:54:39.139301
+risteys:RHEUMA_OTHER_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_OTHER_WIDE	f0eb4b292d28f4553f655423eb7686a2837d649564b9c59a8c1dd8979bb8a00b	2117972	1	2026-09-30 09:54:55.698524
+risteys:RHEUMA_NOS	https://r13.risteys.finngen.fi/endpoints/RHEUMA_NOS	5797789eba3ea632872c71ec0bee895fff744fa42505f004487662fca20ce55f	1893131	1	2026-09-30 09:54:59.204791
+risteys:SPONDYLOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/SPONDYLOARTHRITIS	1da11e5775a2af20bea39b6b2871d3c6e6a95d7270afd9396b425ca1f720149c	2264705	1	2026-09-30 09:55:08.128097
+risteys:RHEUMA_SEROPOS_WIDE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_WIDE	4e6fd73a59c1188e5afe4aee48fba1c437ff8e0f524c7d87c2ba3c224b066e34	2241558	1	2026-09-30 09:55:17.873901
+risteys:RHEUMA_SEROPOS_STRICT	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SEROPOS_STRICT	6680bb4a6983bbebea6ca80b65817a6491e3c659dddd5fb24d04c26e1b5b3469	1603655	1	2026-09-30 09:55:26.747813
+risteys:M13_PSORIARTH	https://r13.risteys.finngen.fi/endpoints/M13_PSORIARTH	5e56d115f8aa4f59034eaae13ca06733e337a124743ab1a3bd3093ad2b3f9597	2053298	1	2026-09-30 09:55:31.127343
+risteys:RHEUMA_SERONEG	https://r13.risteys.finngen.fi/endpoints/RHEUMA_SERONEG	f0eda6399a189171c04799fc4fe5673dd59b95399e181c3ff09329eb601a62b5	2073104	1	2026-09-30 09:55:42.04387
+risteys:RHEUMA_ARHTROPAT_REACTIVE	https://r13.risteys.finngen.fi/endpoints/RHEUMA_ARHTROPAT_REACTIVE	b7c7d4db97cbb1350ca9668a0dcdb6afbdee881020618ae41bc72066cbdb3097	1537869	1	2026-09-30 09:55:51.655168
+risteys:M13_ANKYLOSPON	https://r13.risteys.finngen.fi/endpoints/M13_ANKYLOSPON	f6562dec3a42aed815856cf7bbf43bbcc9a57acc786d58855132a06c71fa2790	1855680	1	2026-09-30 09:56:12.764756
+risteys:M13_POLYARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_POLYARTHRITIS	79acd9e0e55ed2b681b08065ad273955f5b314b5b7b93f7e70cb670c21c59fcd	1315604	1	2026-09-30 09:56:28.131868
+risteys:M13_SACROILIITIS	https://r13.risteys.finngen.fi/endpoints/M13_SACROILIITIS	e14313fd1ab199620acd6024d025aebcfde0576ebe533a5a9b2cc7d42293a595	1362051	1	2026-09-30 09:56:30.71075
+risteys:K11_IBD_STRICT	https://r13.risteys.finngen.fi/endpoints/K11_IBD_STRICT	723907c10450135f06be03d2466e7625c0db252b3588bdebfa41051882ec557a	1823107	1	2026-09-30 09:56:39.127213
+risteys:H7_IRIDOCYCLITIS	https://r13.risteys.finngen.fi/endpoints/H7_IRIDOCYCLITIS	8d5ec186f3510eb1d4d8dc8c6b1fe9957dba5956daba07a282053fc3e07f24d1	2086486	1	2026-09-30 09:56:39.337358
+risteys:M13_MONOARTHRITIS	https://r13.risteys.finngen.fi/endpoints/M13_MONOARTHRITIS	2ee2304c98bf6134ad104cd8592d031ebd558b6b2bcac8b587df27a4e4428be7	1321402	1	2026-09-30 09:56:43.719027
+risteys:M13_ARTHROSIS	https://r13.risteys.finngen.fi/endpoints/M13_ARTHROSIS	00dcf043604c24f0d774bbf9d0409cff2af30cc33bbd5629c5a30e41c6bdc39d	4219995	1	2026-09-30 09:57:09.43355
+FG_R12_UKBB_meta:RHEUMA_SERONEG	https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_RHEUMA_SERONEG_meta_out.tsv.gz			542	2026-09-30 10:07:38.581438
+FG_R12_UKBB_meta:RHEUMA_OTHER_WIDE	https://finngen-public-data-r12.storage.googleapis.com/meta_analysis/ukbb/summary_stats/finngen_R12_RHEUMA_OTHER_WIDE_meta_out.tsv.gz			542	2026-09-30 10:07:38.609851
+FinnGen_R13_hla_all	https://finngen-public-data-r13.storage.googleapis.com/hla/summary_stats/finngen_R13_<endpoint>.gz			314019	2026-10-02 04:24:27.975074
+FinnGen_R13_sumstats	https://finngen-public-data-r13.storage.googleapis.com/summary_stats/finngen_R13_{endpoint}.gz			3982	2026-10-05 04:59:11.913778

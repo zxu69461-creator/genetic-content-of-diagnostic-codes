@@ -1,0 +1,303 @@
+[
+  {
+    "table": "S1_sources",
+    "title": "Analyzed public source accessions and data roles",
+    "rows": 23,
+    "file": "tables/S1_sources.tsv",
+    "original_table": "ref_external_sources"
+  },
+  {
+    "table": "S2_endpoints",
+    "title": "Endpoint case counts and coding definitions",
+    "rows": 5,
+    "file": "tables/S2_endpoints.tsv",
+    "original_table": "t1_data_sources"
+  },
+  {
+    "table": "S3_atlas",
+    "title": "HLA-B27 atlas with post hoc multiplicity summaries",
+    "rows": 1677,
+    "file": "tables/S3_atlas.tsv",
+    "original_table": "atlas_multiplicity"
+  },
+  {
+    "table": "S4_AS_loci",
+    "title": "External AS loci from GCST005529",
+    "rows": 66,
+    "file": "tables/S4_AS_loci.tsv",
+    "original_table": "g27_igas_loci"
+  },
+  {
+    "table": "S5_AS_calibration",
+    "title": "AS-equivalent non-MHC estimates by locus set",
+    "rows": 36,
+    "file": "tables/S5_AS_calibration.tsv",
+    "original_table": "g27_igas_as_equiv"
+  },
+  {
+    "table": "S6_atlas_comparison",
+    "title": "Cross-marker atlas comparison",
+    "rows": 178,
+    "file": "tables/S6_atlas_comparison.tsv",
+    "original_table": "g30_g4_codes"
+  },
+  {
+    "table": "S7_atlas_summary",
+    "title": "Descriptive slopes and historical endpoint-jackknife intervals",
+    "rows": 4,
+    "file": "tables/S7_atlas_summary.tsv",
+    "original_table": "g30_g4_summary"
+  },
+  {
+    "table": "S8_atlas_sensitivity",
+    "title": "Exploratory atlas subset summaries",
+    "rows": 10,
+    "file": "tables/S8_atlas_sensitivity.tsv",
+    "original_table": "g30_g4_sensitivity"
+  },
+  {
+    "table": "S9_HLA_fit",
+    "title": "Constrained HLA model coefficients",
+    "rows": 157,
+    "file": "tables/S9_HLA_fit.tsv",
+    "original_table": "g1hla_pi_commonref"
+  },
+  {
+    "table": "S10_loadings",
+    "title": "Component-locus regression estimates and sensitivity analyses",
+    "rows": 23,
+    "file": "tables/S10_loadings.tsv",
+    "original_table": "g8_robustness"
+  },
+  {
+    "table": "S11_cocoding",
+    "title": "Registry co-coding compared with genetic signals",
+    "rows": 113,
+    "file": "tables/S11_cocoding.tsv",
+    "original_table": "g14_coding_vs_genetics"
+  },
+  {
+    "table": "S12_registry_scenarios",
+    "title": "Conditional co-coding scenarios in FinnGen and FinRegistry",
+    "rows": 10,
+    "file": "tables/S12_registry_scenarios.tsv",
+    "original_table": "g25_registry_finregistry"
+  },
+  {
+    "table": "S13_care_markers",
+    "title": "Recorded care markers and non-reporting sensitivity ranges",
+    "rows": 369,
+    "file": "tables/S13_care_markers.tsv",
+    "original_table": "g25_footprint_fixed"
+  },
+  {
+    "table": "S14_care_ratios",
+    "title": "Observed-to-expected marker ratios under mixture assumptions",
+    "rows": 20,
+    "file": "tables/S14_care_ratios.tsv",
+    "original_table": "g25_recognition_fixed"
+  },
+  {
+    "table": "S15_care_correlations",
+    "title": "Exploratory ecological partial correlations",
+    "rows": 36,
+    "file": "tables/S15_care_correlations.tsv",
+    "original_table": "g31_care_partial"
+  },
+  {
+    "table": "S16_cross_system",
+    "title": "Cross-system genetic loadings",
+    "rows": 67,
+    "file": "tables/S16_cross_system.tsv",
+    "original_table": "g20_cross_system"
+  },
+  {
+    "table": "S17_portability",
+    "title": "Sensitivity to transferring component loci across cohorts",
+    "rows": 10,
+    "file": "tables/S17_portability.tsv",
+    "original_table": "g24_portability"
+  },
+  {
+    "table": "S18_OA_contrasts",
+    "title": "OA locus loadings by coding definition",
+    "rows": 12,
+    "file": "tables/S18_OA_contrasts.tsv",
+    "original_table": "g24_oa_stringency"
+  },
+  {
+    "table": "S19_autoimmune_models",
+    "title": "Autoimmune comparison components in genome-wide fits",
+    "rows": 84,
+    "file": "tables/S19_autoimmune_models.tsv",
+    "original_table": "g15_poly_decoys"
+  },
+  {
+    "table": "S20_simulation",
+    "title": "Finite-design simulation bias and interval coverage",
+    "rows": 24,
+    "file": "tables/S20_simulation.tsv",
+    "original_table": "g9_sim_grid"
+  },
+  {
+    "table": "S21_heterogeneity_power",
+    "title": "Detection of simulated locus-specific shared effects",
+    "rows": 4,
+    "file": "tables/S21_heterogeneity_power.tsv",
+    "original_table": "g9_sim_pleiotropy"
+  },
+  {
+    "table": "S22_replication",
+    "title": "All planned external-reference and UKB criteria",
+    "rows": 8,
+    "file": "tables/S22_replication.tsv",
+    "original_table": "g10_replication"
+  },
+  {
+    "table": "S23_pathway",
+    "title": "Planned pathway comparison and exploratory re-analysis",
+    "rows": 2,
+    "file": "tables/S23_pathway.tsv",
+    "original_table": "g7_pathway_test"
+  },
+  {
+    "table": "S24_OA_site",
+    "title": "Site-specific OA sensitivity",
+    "rows": 32,
+    "file": "tables/S24_OA_site.tsv",
+    "original_table": "g26_oa_site"
+  },
+  {
+    "table": "S25_adjustment",
+    "title": "Unadjusted versus adjusted-effect sensitivity",
+    "rows": 33,
+    "file": "tables/S25_adjustment.tsv",
+    "original_table": "g26_adjustment"
+  },
+  {
+    "table": "S26_polygenic_models",
+    "title": "Genome-wide constrained model coefficients",
+    "rows": 294,
+    "file": "tables/S26_polygenic_models.tsv",
+    "original_table": "g15_poly_pi"
+  },
+  {
+    "table": "S27_polygenic_fit",
+    "title": "Genome-wide model fit statistics",
+    "rows": 42,
+    "file": "tables/S27_polygenic_fit.tsv",
+    "original_table": "g15_poly_fit"
+  },
+  {
+    "table": "S28_genetic_correlations",
+    "title": "Common-reference genetic correlations",
+    "rows": 45,
+    "file": "tables/S28_genetic_correlations.tsv",
+    "original_table": "g1_ldsc_cr_rg"
+  },
+  {
+    "table": "S29_UKB_M060",
+    "title": "Exploratory UKB seronegative RA results",
+    "rows": 10,
+    "file": "tables/S29_UKB_M060.tsv",
+    "original_table": "g23_ukb_seroneg"
+  },
+  {
+    "table": "S30_AS_reference_units",
+    "title": "Sensitivity to choice of AS calibration reference",
+    "rows": 6,
+    "file": "tables/S30_AS_reference_units.tsv",
+    "original_table": "g24_spa_units"
+  },
+  {
+    "table": "S31_MHC_sensitivity",
+    "title": "Post hoc AS sensitivity using a consistent expanded MHC exclusion",
+    "rows": 9,
+    "file": "tables/S31_MHC_sensitivity.tsv",
+    "original_table": "audit_mhc_sensitivity"
+  },
+  {
+    "table": "S32_calibration_grid",
+    "title": "Hypothetical mixture calibration under assumed component B27 carriage",
+    "rows": 21,
+    "file": "tables/S32_calibration_grid.tsv",
+    "original_table": "g24_b27_grid"
+  },
+  {
+    "table": "S33_AS_unscaled",
+    "title": "Unscaled external AS regressions before AS-reference normalization",
+    "rows": 38,
+    "file": "tables/S33_AS_unscaled.tsv",
+    "original_table": "g27_igas_loadings"
+  },
+  {
+    "table": "S34_expanded_model",
+    "title": "Expanded genome-wide autoimmune comparison model",
+    "rows": 18,
+    "file": "tables/S34_expanded_model.tsv",
+    "original_table": "g31_g5_decoys"
+  },
+  {
+    "table": "S35_model_check_criteria",
+    "title": "All four recorded criteria of the genome-wide model check and their outcomes",
+    "rows": 4,
+    "file": "tables/S35_model_check_criteria.tsv",
+    "original_table": "revision_20261006/G5_recorded_criteria"
+  },
+  {
+    "table": "S36_targeted_effects",
+    "title": "Allele-aligned source effects for the targeted analyses",
+    "rows": 176,
+    "file": "tables/S36_targeted_effects.tsv",
+    "original_table": "revision_20261006/aligned_effects"
+  },
+  {
+    "table": "S37_alignment_estimators",
+    "title": "Fixed-panel alignment estimates and sensitivity analyses",
+    "rows": 112,
+    "file": "tables/S37_alignment_estimators.tsv",
+    "original_table": "revision_20261006/alignment_results"
+  },
+  {
+    "table": "S38_locus_influence",
+    "title": "Leave-one-locus and leave-one-chromosome estimates",
+    "rows": 528,
+    "file": "tables/S38_locus_influence.tsv",
+    "original_table": "revision_20261006/influence"
+  },
+  {
+    "table": "S39_reference_LD",
+    "title": "Within-chromosome European and Finnish-subset reference LD",
+    "rows": 34,
+    "file": "tables/S39_reference_LD.tsv",
+    "original_table": "revision_20261006/LD_pairs"
+  },
+  {
+    "table": "S40_conditional_null",
+    "title": "Conditional outcome-null simulation at the fixed design",
+    "rows": 16,
+    "file": "tables/S40_conditional_null.tsv",
+    "original_table": "revision_20261006/conditional_null_simulation"
+  },
+  {
+    "table": "S41_HLA_covariance",
+    "title": "HLA shared-reference and arbitrary-covariance sensitivity",
+    "rows": 1676,
+    "file": "tables/S41_HLA_covariance.tsv",
+    "original_table": "revision_20261006/hla_overlap_sensitivity"
+  },
+  {
+    "table": "S42_serotype_contrast",
+    "title": "M06.0 minus M05 covariance sensitivity envelopes",
+    "rows": 2,
+    "file": "tables/S42_serotype_contrast.tsv",
+    "original_table": "revision_20261006/serotype_contrast"
+  },
+  {
+    "table": "S43_targeted_QC",
+    "title": "Target definitions, sample counts, locus availability and units",
+    "rows": 8,
+    "file": "tables/S43_targeted_QC.tsv",
+    "original_table": "revision_20261006/acquisition_QC"
+  }
+]

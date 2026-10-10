@@ -1,0 +1,24 @@
+role	component	accession	source	n_cases	n_controls	ancestry	includes_finngen	includes_ukb	note
+ext_component	seropositive_RA	GCST90132226	Ishigaki 2022 EUR seropositive	17221	74823	EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	clinical cohorts
+ext_component	all_RA_MVP	GCST90476230	MVP 714.1	10479		EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	
+ext_component	AS	GCST90476232	MVP 715.2	1637	448993	EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Harmonized public summary effects
+ext_component	AS_UKB	GCST90474065	UKB WGS M45	2076		EUR	not a FinnGen release; individual overlap not checked	yes	GRCh38
+ext_component	gout	GCST90475735	MVP 274.1	42034	397989	EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	
+ext_component	polyarthrosis	GCST90479027	MVP 740.3	4911		EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	
+ext_label	RA_M06_UKB	GCST90474002	UKB WGS M06	12034		EUR	not a FinnGen release; individual overlap not checked	yes	mostly M06.9 unspecified RA; GRCh38
+ext_label	RA_M05_UKB	GCST90474000	UKB WGS M05	1385		EUR	not a FinnGen release; individual overlap not checked	yes	GRCh38
+ext_component	AS_IGAS	GCST005529	IGAS Immunochip European-ancestry subset	9069	13578	EUR	not independently established	not independently established	External panel; doi:10.1038/ng.2667
+external_summary	RA	BBJ_RA_2021	BioBank Japan-only RA; NBDC hum0197 v3	5348	173268	EAS	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	BBJ-only file GWASsummary_RA_Japanese_SakaueKanai2020.auto.txt.gz; not the cross-population meta-analysis.
+external_summary	RA	GCST90476229	MVP RA	2384	118038	AFR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	seropositive_RA	GCST90476231	MVP seropositive RA	7622	436029	EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	localized_OA	GCST90476254	MVP localized OA	108659	293849	EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	RA	GCST90478870	MVP RA	1166	58205	AMR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	seropositive_RA	GCST90478871	MVP seropositive RA	1243	57500	AMR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	seropositive_RA	GCST90478872	MVP seropositive RA	1961	117583	AFR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+external_summary	generalized_OA	GCST90479025	MVP generalized OA			EUR	not a FinnGen release; individual overlap not checked	not a UKB release; individual overlap not checked	Source-specific counts; see cohort publication and accompanying source provenance.
+primary	multiple_endpoints	FinnGen_R13	FinnGen release 13			Finnish	yes	no	HLA atlas, component panels and target endpoints; endpoint-specific counts in Table 1 and Table S3.
+registry	aggregate_codes	Risteys_R13_FinRegistry	FinnGen Risteys R13 and FinRegistry			Finnish	yes	no	Aggregate co-coding and care-marker counts; not independent clinical validation.
+external_target	RA_codes	PanUKBB_EUR	Pan-UK Biobank European subset			EUR	no	yes	M05, M06, phecode RA and self-reported RA definitions; endpoint counts in Table 1.
+external_target	M06.0	UKB_only_RHEUMA_SERONEG	UK Biobank-only columns in FinnGen-UK Biobank comparison	931		EUR	UKB-only effect columns	yes	Overlaps other UK Biobank releases; used as a separate target-cohort comparison with FinnGen.
+external_target	RA_codes	EstBB_PheWeb	Estonian Biobank PheWeb			EUR	no	no	Endpoint counts in Table 1; individual overlap with consortium studies not independently established.
+LD_reference	none	IGSR_GRCh38_20190312	1000 Genomes European reference; 503 samples, including 99 FIN			EUR	not a FinnGen release; donor overlap not evaluated	not a UK Biobank release; donor overlap not evaluated	Public reference genotypes used solely for LD; aggregate LD matrices supplied

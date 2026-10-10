@@ -1,0 +1,9 @@
+cohort	label	n_cases	n_controls	expected_historical_loci	matched_historical_loci	expected_primary_loci	matched_primary_loci	allele_or_missing_exclusions	reference_effect_units	target_effect_units	analysis_status
+FinnGen R13	M13_ANKYLOSPON	3875	347768	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+FinnGen R13	RHEUMA_OTHER_WIDE	8316	491870	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+FinnGen R13	RHEUMA_SERONEG	5137	368412	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+FinnGen R13	RHEUMA_SEROPOS_WIDE	12223	487959	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+UK Biobank	M13_ANKYLOSPON	495	371238	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+UK Biobank	RHEUMA_OTHER_WIDE	3324	417207	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+UK Biobank	RHEUMA_SERONEG	931	328687	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available
+UK Biobank	RHEUMA_SEROPOS_WIDE	344	420187	22	22	21	21	0	IGAS released beta; cross-study clinical odds scale equivalence not assumed	released adjusted log odds	all frozen variants available

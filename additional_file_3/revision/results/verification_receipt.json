@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "independent_WLS_checks": [
+    {
+      "cohort": "FinnGen R13",
+      "label": "M13_ANKYLOSPON",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "FinnGen R13",
+      "label": "RHEUMA_OTHER_WIDE",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "FinnGen R13",
+      "label": "RHEUMA_SERONEG",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "FinnGen R13",
+      "label": "RHEUMA_SEROPOS_WIDE",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "UK Biobank",
+      "label": "M13_ANKYLOSPON",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "UK Biobank",
+      "label": "RHEUMA_OTHER_WIDE",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "UK Biobank",
+      "label": "RHEUMA_SERONEG",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    },
+    {
+      "cohort": "UK Biobank",
+      "label": "RHEUMA_SEROPOS_WIDE",
+      "WLS_recomputed": "PASS",
+      "source_scale_invariance": "PASS"
+    }
+  ],
+  "IGAS_source_check": "All 22 frozen loci match original source effect magnitudes, standard errors and P values. There are 23 original records for these rsIDs, including an alternate rs1801274 record; all candidates are retained and the already-frozen matching record is identified. Source beta equals log(released OR); no clinical scale equivalence assumed.",
+  "G5_criteria_met": 0,
+  "effect_rows": 176,
+  "result_rows": 112,
+  "source_effect_unit": "released IGAS beta, not a patient fraction"
+}

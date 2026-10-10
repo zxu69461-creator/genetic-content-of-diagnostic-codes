@@ -1,0 +1,33 @@
+{
+  "revision_plan_sha256": "af5c378cbcfd2054f4e2328bbc24c2dadfbfeaa89022d8bfd76a2e217108eb5a",
+  "n_aligned_rows": 176,
+  "n_exclusions": 0,
+  "n_fitted_rows": 112,
+  "G5_criteria_met": 0,
+  "peak_rss_mib": 210.359375,
+  "rss_cap_mib": 1024,
+  "primary_result": [
+    {
+      "cohort": "UK Biobank",
+      "label": "RHEUMA_SERONEG",
+      "panel": "21_no_chr6_20_40Mb",
+      "method": "WLS",
+      "n_loci": 21,
+      "estimate": 0.5225763451477667,
+      "se": 0.3065117242791354,
+      "lo": -0.07818663443933871,
+      "hi": 1.1233393247348722,
+      "p": 0.08821033392273832,
+      "reference_error_se": 0.043320062772338,
+      "unknown_overlap_se_bound": 0.34983178705147344,
+      "overlap_envelope_lo": -0.16309395747312116,
+      "overlap_envelope_hi": 1.2082466477686546,
+      "Q": 24.39779295516501,
+      "Q_df": 20.0,
+      "Q_p": 0.22544747637732415,
+      "n_blocks": NaN,
+      "leave_out_min": NaN,
+      "leave_out_max": NaN
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source": "src/deconv.py",
+  "sha256": "3e31d29e89b9a4e6e386cbab2cf177c3a1664990dd05cd23992032a1c10883b1",
+  "selected_functions": [
+    "_moments",
+    "_solve",
+    "common_reference",
+    "component_heterogeneity",
+    "deconvolve",
+    "nearest_psd",
+    "null_z_corr",
+    "simulate",
+    "winners_curse"
+  ],
+  "transform": "AST extraction; numerical function bodies preserved; historical comments/docstrings omitted"
+}

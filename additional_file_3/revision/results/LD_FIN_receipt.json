@@ -1,0 +1,9 @@
+{
+  "population": "FIN",
+  "n_samples": 99,
+  "n_loci": 22,
+  "max_r2": 0.04585798426790234,
+  "min_eigenvalue": 0.7484327344700037,
+  "condition_number": 1.6721033149369147,
+  "interchromosome_correlations": "fixed at zero"
+}

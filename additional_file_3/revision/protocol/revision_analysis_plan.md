@@ -1,0 +1,27 @@
+# Revision analysis plan, 6 October 2026
+
+This is a post hoc revision plan, not prospective registration. The prior FinnGen results and the failed UK Biobank genome-wide G5 checks were known when this plan was written. The new targeted UK Biobank estimates and reference LD have not yet been computed in this revision. All attempted analyses, missingness and failures will be reported.
+
+## Frozen questions and panels
+
+1. Does the adjusted UK Biobank M06.0 endpoint show positive alignment with independently selected IGAS ankylosing-spondylitis (AS) log-odds effects? The primary set is the 21 variants in frozen_locus_panel.tsv outside chromosome 6:20–40 Mb (GRCh38). The historical 22-variant set is a sensitivity analysis. No variant is selected on UK Biobank association strength. This set was previously matched in FinnGen and is not a new untouched discovery set.
+2. UK Biobank RHEUMA_SERONEG is the primary outcome. RHEUMA_SEROPOS_WIDE and M13_ANKYLOSPON are fixed comparator and positive-control endpoints, conditional on their public per-study files being available. RHEUMA_OTHER_WIDE is a broader-M06 sensitivity endpoint. No substitutions based on results. FinnGen adjusted effects at the same variants provide a scale-matched comparison. The original frequency-derived analyses remain historical exploratory results.
+3. Quantify LD, locus/chromosome influence, effect-error sensitivity, and uncertainty from shared reference frequencies. Incorporate all existing G5 results without changing its criteria or rerunning it to improve significance.
+
+## Estimators and reporting
+
+Alleles are matched by GRCh38 position and exact REF/ALT or reversed REF/ALT; reversed effects and LD dosages are flipped. Ambiguous/incompatible records, nonfinite effects, and nonpositive standard errors are excluded with a record. Primary reporting requires at least 15 of 21 loci. The primary coefficient is a zero-intercept weighted least-squares projection of target adjusted log odds on IGAS log odds, weights 1/SE_target^2, with a two-sided normal working interval and P value. It is an AS-effect alignment coefficient, not a disease fraction or AS-normalized frequency estimate. Winner's curse, control definitions, and unverified participant overlap remain limitations.
+
+Report alongside the primary coefficient: (i) error-in-variables denominator correction sum[w(x^2-SE_x^2)] if positive, (ii) delete-one-locus and delete-one-chromosome ranges and jackknife t intervals, (iii) the historical 22-variant set, and (iv) generalized least squares with target-error covariance D_SE R D_SE using external European reference LD if obtainable. The GLS variance is conditional on observed IGAS effects. Add the conservative first-order reference-error contribution, with maximal unknown correlation between target and reference coefficient errors; this is a sensitivity envelope, not a validated confidence interval. Never use a favorable sensitivity estimate to replace the fixed primary result.
+
+LD will be estimated from public 1000 Genomes phase-3 samples, European superpopulation, at the frozen variants only. Analyze chromosomes separately and set interchromosomal LD to zero. Report European sample count, variant availability, maximum within-chromosome r^2, matrix condition/eigenvalues, and a Finnish-subset sensitivity if available. Missing genotype loci are not silently imputed; GLS is a subset sensitivity with its corresponding WLS comparator. Use a pseudoinverse only if necessary and disclose it. A fixed rule retaining the lower IGAS P variant for r^2>0.01 supplies an additional pruned sensitivity. Physical distance alone is not described as LD independence.
+
+Compare WLS and GLS in 10000 outcome-null draws at the fixed observed design, seed 20261006. This checks conditional target-error Type I error for the reference LD model, not overall mixture-model calibration, pleiotropy, selection bias, or clinical validity. An unknown-covariance endpoint contrast uses the sum of marginal standard errors as its conservative error bound; it does not establish diagnostic specificity.
+
+For HLA ratio r=(f_label-f_reference)/(f_AS-f_reference), report shared-reference gradient (1,-r,r-1)/D. Compute both independent-group first-order binomial errors and the maximal Cauchy covariance envelope sum(abs(gradient)*SE_frequency). The latter addresses arbitrary sampling correlation within this approximation, but not imputation error, covariates, phenotype validity, or bias. The AS endpoint is the normalization reference and its ratio of one is not independent evidence.
+
+## Integrity and limits
+
+Keep original database read-only. Freeze input hashes, public URLs, download ranges, row counts, exclusion decisions, and outputs. Do not delete source data or audit evidence. New scientific figures use shared Figkit rules, PNG/SVG with native QA. New revision results, including failed replication, enter the manuscript, supplement, and source archive.
+
+Use one analysis process at a time; RSS cap 1 GiB, DuckDB 256 MiB/one thread, no GPU. Record pre/post swap and peak RSS. Stop and reduce workload if this job breaches the cap or causes material swap growth. Targeted network download budget 512 MiB total, 32 MiB per request, no full reference genome or full GWAS download. Require HTTP 206 and exact Content-Range for range requests. If a resource exceeds the budget or is unavailable after limited attempts, report the unavailable sensitivity and proceed with complete existing evidence.

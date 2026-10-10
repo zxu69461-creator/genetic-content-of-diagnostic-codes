@@ -1,0 +1,5 @@
+gate	metric	value	threshold	passed	detail
+G5:Q1	median_decoy_UKB_M06	1.8648277366748923e-17	>= 0.10	False	{}
+G5:Q2	paired_P_M06_minus_M05	0.79200000000000004	one-sided P < 0.05	False	"{""diff"": -0.13037455254855754, ""lo"": -0.24508222292991558, ""hi"": 0.06831675784615635}"
+G5:Q3	median_decoy_UKB_M05	0.13037455254855757	<= 0.05	False	{}
+G5:Q4	max_abs_dev_seroneg_vs_g15	0.32624678329310947	<= 0.05	False	{}
